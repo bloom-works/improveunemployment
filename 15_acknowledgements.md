@@ -8,8 +8,8 @@ toc: false
 intro_image: /assets/images/acknowledgements.png
 ---
 
-## Acknowledgements
 
+## Acknowledgements
 This work was supported by the Families and Workers Fund, and the team is especially grateful for the support and partnership of its Executive Director Rachel Korberg and Director of Operations Nefeli Mourti.
 
 **Thank you to the following individuals and organizations for collaborating with us:**
@@ -43,6 +43,7 @@ This work was supported by the Families and Workers Fund, and the team is especi
 *   Cassandra Madison from Tech Talent Project for her strike team contributions
 *   [Adam Moorman](https://www.linkedin.com/in/admoordesign/) for his beautiful and thoughtful designs
 *   [Melanie Rice](https://www.linkedin.com/in/melanienrice/) for her technical assistance on defining and solving for equity issues in identity verification
+
 
 <hr>
 ### Go to the next section: [Ecosystem Survey](https://improveunemployment.com/Ecosystem/)
