@@ -407,7 +407,7 @@ In addition to American Rescue Plan (ARP) funds, philanthropy could support the 
 *   Funding an [Algorithmic Justice League audit](https://www.ajl.org/take-action#REQUEST) of identity verification vendors used in unemployment
 
 <hr>
-### Go to the next section: [Appendices](https://improveunemployment.com/Appendices/)
+### Go to the next section: [Acknowledgements](https://improveunemployment.com/Acknowledgements/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->
