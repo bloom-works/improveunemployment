@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="prose">
+  {% if page.title %}
+    <h1>{{ page.title }}</h1>
+    <div class="-mt-8 mb-6">
+      <button onclick="window.print()" class="print-button">Print This Section</button>
+    </div>
+  {% endif %}
+  {% if page.intro_image %}
+    <div class="mb-10 intro-image">
+      <img src="{{ page.intro_image }}" alt="{{ page.title }}" loading="lazy" role="presentation" />
+    </div>
+  {% endif %}
+  {% if page.subpages %}
+    {% assign sorted = site.pages | sort: 'weight' %}
+
+    {% if page.toc == true %}
+      <div class="in-this">
+          <div class="in-this-title">In this section</div>
+          {% for subpage in sorted %}
+              {% if subpage.sub == page.subpages %}
+                  {{ subpage.content | markdownify | toc_only }}
+              {% endif %}
+          {% endfor %}
+      </div>
+    {% endif %}
+
+    {% for subpage in sorted %}
+      {% if subpage.sub == page.subpages %}
+          <div class="prose">
+              {{ subpage.content | markdownify | inject_anchors }}
+          </div>
+      {% endif %}
+    {% endfor %}
+  {% else %}
+    {% if page.toc == true %}
+    <div class="in-this">
+      <div class="in-this-title">In this section</div>
+      {{ content | toc_only }}
+    </div>
+    {% endif %}
+    {{ content | inject_anchors }}
+  {% endif %}
+</div>

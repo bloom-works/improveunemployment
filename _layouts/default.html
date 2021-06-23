@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  {% include head.html %}
+
+  <body>
+    <input type="checkbox" name="htr" id="htr" class="sr-only" />
+
+    <header class="bg-darkGray">
+      <div class="flex">
+        <div class="w-full bg-white text-black py-6 px-6">
+          <div class="flex flex-col md:flex-row md:items-center">
+            <div class="mr-3 pr-3 mb-3 md:mb-0 md:border-r md:border-gray-500">
+              <a href="/">
+                <img src="https://d3fvh0lm0eshry.cloudfront.net/static/logo-black.svg" title="New America" class="h-6" />
+              </a>
+            </div>
+            <div class="leading-tight">
+              {{ site.title }}
+            </div>
+          </div>
+        </div>
+        <div class="flex ml-auto md:hidden">
+          <label class="h" for="htr">
+            <div class="menu">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                <path
+                  d="M16 288h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16z"
+                  fill="#fff"
+                />
+                <path
+                  d="M432 384H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-320H16A16 16 0 0 0 0 80v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16V80a16 16 0 0 0-16-16z"
+                  fill="#fff"
+                />
+              </svg>
+              Menu
+            </div>
+            <div class="close">
+              <div></div>
+              Close
+            </div>
+          </label>
+        </div>
+      </div>
+    </header>
+
+    <div class="max-w-7xl container mx-auto py-2 md:py-20 md:pb-40 relative">
+      <div class="flex flex-wrap -mx-6">
+        <div class="relative w-full print:hidden sm:w-1/3 px-6 mb-10 sm:mb-0">
+          {% include sidebar.html %}
+          <div id="back-to-top" class="fixed bottom-0 hidden">
+            <a href="#" class="back flex items-center">
+              Back to top of page
+              <span class="ml-2">
+                <svg
+                  width="22"
+                  height="22"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle cx="11" cy="11" r="11" fill="#fff" />
+                  <path
+                    d="M11.707 4.293a1 1 0 00-1.414 0l-6.364 6.364a1 1 0 101.414 1.414L11 6.414l5.657 5.657a1 1 0 001.414-1.414l-6.364-6.364zM12 19V5h-2v14h2z"
+                    fill="rgb(51,51,51)"
+                  />
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div>
+        <div class="w-full print:w-full sm:w-2/3 px-6">{{ content }}</div>
+      </div>
+    </div>
+
+    <div class="bg-gray-100">
+      <div class="max-w-7xl container mx-auto py-8 pb-24">
+        <div class="flex flex-wrap -mx-6">
+          <div class="w-full lg:w-5/12 px-6 text-sm mb-6 lg:mb-0">
+            <p class="mb-4"><!-- Copyright statement --></p>
+            <div class="font-semibold">&copy; {{ 'now' | date: "%Y" }} <strong>NEW AMERICA</strong></div>
+          </div>
+          <div class="w-full lg:w-7/12 px-6 text-sm">
+            <div class="flex flex-wrap lg:justify-end -mx-4 items-center">
+              <!-- Footer images can go here -->
+              <!-- Use this structure
+                <div class="px-3 mb-4">
+                  <img
+                    src="{{ site.asset_url }}/assets/images/logos/IMAGE_FILE"
+                    alt="Organize"
+                    width="125"
+                    height="17"
+                  />
+                </div>
+              -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Fades in the button when you scroll down -->
+    <script>
+      var links = document.querySelectorAll("a[href$='.pdf']");
+
+      if (links.length > 0) {
+        for (let i = 0; i < links.length; i++) {
+          const element = links[i];
+          element.target = '_blank';
+          element.title = element.innerHTML + ' - link opens in a new window';
+        }
+      }
+
+      var link = document.getElementById('back-to-top');
+      var amountScrolled = 250;
+
+      window.addEventListener('scroll', function (e) {
+        if (window.pageYOffset > amountScrolled) {
+          link.classList.remove('hidden');
+        } else {
+          link.classList.add('hidden');
+        }
+      });
+
+      link.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        var distance = 0 - window.pageYOffset;
+        var increments = distance / (500 / 16);
+        function animateScroll() {
+          window.scrollBy(0, increments);
+          if (window.pageYOffset <= document.body.offsetTop) {
+            clearInterval(runAnimation);
+          }
+        }
+
+        // Loop the animation function
+        var runAnimation = setInterval(animateScroll, 16);
+      });
+    </script>
+
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-5LS4JT7VVK"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      gtag('config', 'XXXX');
+    </script>
+  </body>
+</html>
