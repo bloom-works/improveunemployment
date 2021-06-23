@@ -5,7 +5,7 @@ permalink: /
 nav: true
 weight: 1
 toc: true
-intro_image: /assets/images/istockphoto-1151939169-2048x2048.jpg
+intro_image: /assets/images/executive_summary.png
 ---
 
 ## About the playbook
@@ -70,18 +70,20 @@ In summary, our recommended approach for improving unemployment is:
 *   Improve the relationship between U.S. DOL and states through collaborative projects like demonstration pilots and shared services like central [plain language](https://improveunemployment.com/experience/#plain-language) and [transadaptation](https://improveunemployment.com/experience/#transadaptation) teams from which states gain value.
 *   Deploy philanthropic support towards specific demonstration projects in service of specific success metrics, as well as a [state working groups](https://improveunemployment.com/way_forward/#working-groups) to advance best practices and share fixes.
 <hr>
+### Go to the next section: [North Star](https://improveunemployment.com/NorthStar/)
+<hr>
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
 [^1]:
-     [https://www.naswa.org/system/files/2021-03/usdolreleasesnaswareport.pdf](https://www.naswa.org/system/files/2021-03/usdolreleasesnaswareport.pdf) page vi
+     [https://www.naswa.org/system/files/2021-03/usdolreleasesnaswareport.pdf](https://www.naswa.org/system/files/2021-03/usdolreleasesnaswareport.pdf) Page VI
 
 [^2]:
-     https://www.gao.gov/assets/gao-16-430.pdf
+     [https://www.gao.gov/assets/gao-16-430.pdf](https://www.gao.gov/assets/gao-16-430.pdf)
 
 [^3]:
-    https://www.newamerica.org/pit/reports/unpacking-inequities-unemployment-insurance/a-focus-on-fraud-over-accessibility-the-punitive-design-of-ui/
+    [https://www.newamerica.org/pit/reports/unpacking-inequities-unemployment-insurance/a-focus-on-fraud-over-accessibility-the-punitive-design-of-ui/](https://www.newamerica.org/pit/reports/unpacking-inequities-unemployment-insurance/a-focus-on-fraud-over-accessibility-the-punitive-design-of-ui/)
 
 [^4]:
 

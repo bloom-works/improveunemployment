@@ -5,7 +5,7 @@ permalink: /Processing/
 nav: true
 weight: 1
 toc: true
-intro_image: https://picsum.photos/2000/800
+intro_image: /assets/images/claim_processing.png
 ---
 
 ## Workload Management
@@ -221,6 +221,9 @@ As far back as 2017, New Jersey recognized determinations as an opportunity area
 ### Review your interview process for opportunities to automate.
 We recommend that every state evaluate its determinations interview process for opportunities where automation, such as a situation-specific survey, can replace the highly labor-intensive and non-scalable manual interview process.
 
+<hr>
+### Go to the next section: [Customer Service](https://improveunemployment.com/Customer/)
+<hr>
 
 
 <!-- Footnotes themselves at the bottom. -->
@@ -242,10 +245,10 @@ We recommend that every state evaluate its determinations interview process for 
      It typically takes a new claims examiner up to two years to be proficient in interpreting and applying the federal and state unemployment compensation laws and regulations. There were a limited number of qualified staff to handle the sudden and dramatic influx of cases.” - Nevada strike team report
 
 [^91]:
-     “Two issues of state preparedness to successfully implement the expansion of UI benefits—staffing and system capabilities—have been long-standing concerns underlying many issues noted in prior OIG reports. These issues have been particularly evident in prior periods of increased stress on the unemployment program due to major disasters or periods of significant economic downturn”  “Our work related to past funding for emergency staffing under the 2009 Recovery Act showed that states took over a year to spend the majority of funds available for hiring; and at least 40 percent of the available funds were unspent after 15 months” [link](https://www.oig.dol.gov/public/reports/oa/viewpdf.php?r=19-20-001-03-315&y=2020)
+     “Two issues of state preparedness to successfully implement the expansion of UI benefits—staffing and system capabilities—have been long-standing concerns underlying many issues noted in prior OIG reports. These issues have been particularly evident in prior periods of increased stress on the unemployment program due to major disasters or periods of significant economic downturn”  “Our work related to past funding for emergency staffing under the 2009 Recovery Act showed that states took over a year to spend the majority of funds available for hiring; and at least 40 percent of the available funds were unspent after 15 months” [https://www.oig.dol.gov/public/reports/oa/viewpdf.php?r=19-20-001-03-315&y=2020](https://www.oig.dol.gov/public/reports/oa/viewpdf.php?r=19-20-001-03-315&y=2020)
 
 [^92]:
-     https://www.govops.ca.gov/wp-content/uploads/sites/11/2020/09/Assessment.pdf
+     [https://www.govops.ca.gov/wp-content/uploads/sites/11/2020/09/Assessment.pdf](https://www.govops.ca.gov/wp-content/uploads/sites/11/2020/09/Assessment.pdf)
 
 [^93]:
      “It was extremely difficult to get clear-cut data on the size of the backlog. For the entire first month of the Strike Force’s existence, data identifying what claims were in what status of review was inconsistent and not reliable. Even today, the case management tools available to DETR are inadequate.”

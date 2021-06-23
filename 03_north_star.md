@@ -5,7 +5,7 @@ permalink: /NorthStar/
 nav: true
 weight: 1
 toc: false
-intro_image: https://picsum.photos/2000/800
+intro_image: /assets/images/north_star.png
 ---
 
 As the economy changes, unemployment benefits need to reflect the shifting needs of the workforce. This is especially critical during local and national disasters that displace large amounts of workers with little warning. 
@@ -18,4 +18,8 @@ We recommend adopting the following goals to ensure that unemployment benefits a
 *   **A scalable claims processing system** that can meet demand in times of high unemployment without requiring constant pandemic-level staffing. This means leveraging elastic services for tasks like mail processing and identity verification; workload management systems that allow leaders to confidently hire and reallocate staff without reducing the capacity of their most specialized workers; and a consistent national framework for the policies and procedures that can and can’t be waived under specific circumstances.
 *   **Transparent, real-time reporting** about equitable claimant access, agency workloads, and obstacles between state workforce agencies, U.S. DOL, Congress, and the public.
 *   **A collaborative relationship between U.S. DOL and states** to improve the experience of both claimants and employees. New program letters would be co-authored with states, with practical implementation guidance developed through demonstration projects in states first. These new experiences must be co-designed well, in service of claimant-centric metrics, from the start.
+
+<hr>
+### Go to the next section: [Fraud](https://improveunemployment.com/Fraud/)
+<hr>
 

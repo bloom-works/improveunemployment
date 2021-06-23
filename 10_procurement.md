@@ -5,7 +5,7 @@ permalink: /Procurement/
 nav: true
 weight: 1
 toc: true
-intro_image: https://picsum.photos/2000/800
+intro_image: /assets/images/procurement.png
 ---
 
 Only 13% of government software projects over US$6m succeed.[^105] Both before and during the pandemic, news media has repeatedly reported on costly state unemployment insurance systems across the country — California, Florida, Massachusetts, Indiana, Pennsylvania — that went over budget, over time, resulted in lawsuits, and most importantly, failed constituents in need.[^106] 
@@ -25,6 +25,9 @@ Rates you see in CALC are:
 ![Hourly rate data for content](/assets/images/image9.png)
 ![Hourly rate data for facilitator](/assets/images/image3.png)
 
+<hr>
+### Go to the next section: [Employers](https://improveunemployment.com/Employers/)
+<hr>
 
  <!-- Footnotes themselves at the bottom. -->
 ## Notes
@@ -33,4 +36,4 @@ Rates you see in CALC are:
      Projects valued at $6M or greater, in Europe and the United States, that were completed satisfactorily, on time, and within budget. From The Standish Group’s “[Haze](https://www.standishgroup.com/sample_research_files/Haze4.pdf),” based on their CHAOS database.
 
 [^106]:
-     https://themarkup.org/coronavirus/2020/07/16/unemployment-benefits-website-failures-deloitte-ibm
+     [https://themarkup.org/coronavirus/2020/07/16/unemployment-benefits-website-failures-deloitte-ibm](https://themarkup.org/coronavirus/2020/07/16/unemployment-benefits-website-failures-deloitte-ibm)

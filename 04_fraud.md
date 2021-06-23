@@ -5,7 +5,7 @@ permalink: /Fraud/
 nav: true
 weight: 1
 toc: true
-intro_image: /assets/images/fraud.jpg
+intro_image: /assets/images/fraud.png
 ---
 
 In our 50+ interviews with states, state partners, and advocacy partners, more often than not we heard some version of “our mission is fraud prevention.” Due to the recent increase in fraud, this is understandable. Unfortunately, many current strategies for fraud prevention hurt the very people who need help the most. 
@@ -218,16 +218,21 @@ Of the states that have adopted federally-compliant identity verification during
      </div>
 </div>
 
+<hr>
+### Go to the next section: [Wage Verification](https://improveunemployment.com/Wage/)
+<hr>
+
+
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 [^1]:
-	“The OIG has opened over 15,000 investigative matters related to the pandemic. The vast majority of these matters involve identity theft related UI fraud. In response to this unprecedented amount of potential UI fraud, the OIG hired 22 additional special agents, a 20 percent increase in field investigative staff. In addition, our special agents prioritized their case inventory so that 75 percent of the investigative workload was focused on UI fraud. Prior to the pandemic, UI fraud made up approximately 10 percent of the investigative workload. The OIG’s investigative efforts have directly resulted in the identification and recovery of over $100 million in fraud involving the UI program. In addition, OIG special agents assisted in the identification and recovery of over $565 million in fraudulent UI benefits.” Pandemic Response Oversight Plan, p2 https://www.oig.dol.gov/public/oaprojects/DOL_OIG_Updated_Pandemic_Response_Oversight_Plan.pdf
+	“The OIG has opened over 15,000 investigative matters related to the pandemic. The vast majority of these matters involve identity theft related UI fraud. In response to this unprecedented amount of potential UI fraud, the OIG hired 22 additional special agents, a 20 percent increase in field investigative staff. In addition, our special agents prioritized their case inventory so that 75 percent of the investigative workload was focused on UI fraud. Prior to the pandemic, UI fraud made up approximately 10 percent of the investigative workload. The OIG’s investigative efforts have directly resulted in the identification and recovery of over $100 million in fraud involving the UI program. In addition, OIG special agents assisted in the identification and recovery of over $565 million in fraudulent UI benefits.” Pandemic Response Oversight Plan, p2 [https://www.oig.dol.gov/public/oaprojects/DOL_OIG_Updated_Pandemic_Response_Oversight_Plan.pdf](https://www.oig.dol.gov/public/oaprojects/DOL_OIG_Updated_Pandemic_Response_Oversight_Plan.pdf)
 
 [^2]:
-	“A new phenomenon created more confusion. Before the pandemic, most cases of fraud in the UI system consisted of claimants misrepresenting the facts in order to get a larger benefit amount. During the pandemic, the predominant type of fraud has been false identification: as of this report, there are approximately 50,000 UI claims with questionable identity characteristics. The federal rules require that notice be given to these individuals, but it is not possible to contact a claimant who is fraudulent or is a bot. This is just one example where state and federal laws were not up to the unprecedented challenges of the pandemic. As context, in the regular UI system, the employer serves as a deterrent to fraudulent benefit claims. If an employer disagrees with a claimant’s eligibility for the program or a false claim is filed, they can file an appeal. In the PUA system, there is no employer of an independent contractor to review the claim and disagree with the application for benefits. Also, Nevada has no state income tax, and so the state had no way to validate to see whether an individual had self-employment income or not.” - Nevada Strike Force Report https://cms.detr.nv.gov/Content/Media/Strike_Force_Report_2021_FIN.pdf 
+	“A new phenomenon created more confusion. Before the pandemic, most cases of fraud in the UI system consisted of claimants misrepresenting the facts in order to get a larger benefit amount. During the pandemic, the predominant type of fraud has been false identification: as of this report, there are approximately 50,000 UI claims with questionable identity characteristics. The federal rules require that notice be given to these individuals, but it is not possible to contact a claimant who is fraudulent or is a bot. This is just one example where state and federal laws were not up to the unprecedented challenges of the pandemic. As context, in the regular UI system, the employer serves as a deterrent to fraudulent benefit claims. If an employer disagrees with a claimant’s eligibility for the program or a false claim is filed, they can file an appeal. In the PUA system, there is no employer of an independent contractor to review the claim and disagree with the application for benefits. Also, Nevada has no state income tax, and so the state had no way to validate to see whether an individual had self-employment income or not.” - Nevada Strike Force Report [https://cms.detr.nv.gov/Content/Media/Strike_Force_Report_2021_FIN.pdf](https://cms.detr.nv.gov/Content/Media/Strike_Force_Report_2021_FIN.pdf) 
 
 [^3]:
-	https://wdr.doleta.gov/directives/attach/UIPL/UIPL_23-20.pdf
+	[https://wdr.doleta.gov/directives/attach/UIPL/UIPL_23-20.pdf](https://wdr.doleta.gov/directives/attach/UIPL/UIPL_23-20.pdf)
 
 [^4]:
      While there are examples of unemployment benefits in the past that were not tied to wages, these amounts were very small: $25 per week. During the COVID-19 pandemic, $600 per week over an extended period of time made it very profitable to invest in filing fraudulent claims.
@@ -237,23 +242,22 @@ Of the states that have adopted federally-compliant identity verification during
      No state has enough trained claims processors to process all claims manually in an acceptable time period. In reviewing GAO and IG reports from past recessions, every employment agency cites inadequate staffing to meet increased demand. In fact, in reports during _non_-recession times, agencies also report long-standing training, staffing, and retention challenges. There is no evidence that employment agencies can achieve the staffing levels necessary to process all claims manually in a timeframe that also delivers benefits quickly to those who need them most.
 
 [^6]:
-
-     https://www.newamerica.org/pit/reports/unpacking-inequities-unemployment-insurance/a-focus-on-fraud-over-accessibility-the-punitive-design-of-ui
+     [https://www.newamerica.org/pit/reports/unpacking-inequities-unemployment-insurance/a-focus-on-fraud-over-accessibility-the-punitive-design-of-ui](https://www.newamerica.org/pit/reports/unpacking-inequities-unemployment-insurance/a-focus-on-fraud-over-accessibility-the-punitive-design-of-ui)
 
 [^7]:
      “Human equity is when outcomes are not predictable based on someone’s identities or characteristics (e.g. race, sexual orientation, gender identity, ability status, etc.).” - Equity-Centered Community Design Field Guide
 
 [^8]:
-     https://pages.nist.gov/800-63-3/sp800-63-3.html
+     [https://pages.nist.gov/800-63-3/sp800-63-3.html](https://pages.nist.gov/800-63-3/sp800-63-3.html)
 
 [^9]:
      The IRS account breach involved user accounts that were <span style="text-decoration:underline;">not</span> compliant with these standards. The IRS has since adopted them.
 
 [^10]:
-     https://sites.google.com/state.co.us/uidailydashboard/home?authuser=0
+     [https://sites.google.com/state.co.us/uidailydashboard/home?authuser=0](https://sites.google.com/state.co.us/uidailydashboard/home?authuser=0)
 
 [^11]:
-     https://des.az.gov/sites/default/files/media/newsrelease-11-19-2020-DES-Expands-ID-me-Identity-Verification.pdf?time=1622851639590
+     [https://des.az.gov/sites/default/files/media/newsrelease-11-19-2020-DES-Expands-ID-me-Identity-Verification.pdf?time=1622851639590](https://des.az.gov/sites/default/files/media/newsrelease-11-19-2020-DES-Expands-ID-me-Identity-Verification.pdf?time=1622851639590)
 
 [^12]:
      Using SSNs to verify that a claimant is not deceased may still be a valid use, but not for identity verification. The key here is that _knowledge_ of a SSN is not a secret, so it should be treated similarly to a phone number: fine to ask and use it where needed, but knowledge of your phone number should not be all that’s needed to get into your bank account or redirect your IRS tax refund.
@@ -272,31 +276,29 @@ Of the states that have adopted federally-compliant identity verification during
      (b)  The Administrator of the U.S. Digital Service, the United States Chief Technology Officer, the Chief Information Officer of the United States, and the heads of other agencies, or their designees, shall take necessary actions, consistent with applicable law, to support agencies in developing such plans.
 
 [^14]:
-     https://www.naswa.org/integrity-center/integrity-data-hub
+     [https://www.naswa.org/integrity-center/integrity-data-hub](https://www.naswa.org/integrity-center/integrity-data-hub)
 
 [^15]:
-     https://www.axios.com/pandemic-unemployment-fraud-benefits-stolen-a937ad9d-0973-4aad-814f-4ca47b72f67f.html
+     [https://www.axios.com/pandemic-unemployment-fraud-benefits-stolen-a937ad9d-0973-4aad-814f-4ca47b72f67f.html](https://www.axios.com/pandemic-unemployment-fraud-benefits-stolen-a937ad9d-0973-4aad-814f-4ca47b72f67f.html)
 
 [^16]:
-     _“Although commonly used by federal agencies for remote identity proofing, knowledge-based verification techniques pose security risks because an attacker could obtain and use an individual’s personal information to answer knowledge-based verification questions and successfully impersonate that individual. **As such, NIST’s 2017 guidance on remote identity proofing effectively prohibits the use of knowledge-based verification for sensitive applications**. The guidance states that the ease with which an attacker can discover the answers to many knowledge-based questions and the relatively small number of possible responses cause the method to have an unacceptably high risk of being successfully compromised by an attacker.” - GAO _ https://www.gao.gov/assets/gao-19-288.pdf
+     _“Although commonly used by federal agencies for remote identity proofing, knowledge-based verification techniques pose security risks because an attacker could obtain and use an individual’s personal information to answer knowledge-based verification questions and successfully impersonate that individual. **As such, NIST’s 2017 guidance on remote identity proofing effectively prohibits the use of knowledge-based verification for sensitive applications**. The guidance states that the ease with which an attacker can discover the answers to many knowledge-based questions and the relatively small number of possible responses cause the method to have an unacceptably high risk of being successfully compromised by an attacker.” - GAO [https://www.gao.gov/assets/gao-19-288.pdf](https://www.gao.gov/assets/gao-19-288.pdf)
 
 [^17]:
-     U.S. DOL already requires myriad identity verification requirements, listed on page 20 here: https://wdr.doleta.gov/directives/attach/UIPL/UIPL_16-20_Change_4.pdf
+     U.S. DOL already requires myriad identity verification requirements, listed on page 20 here: [https://wdr.doleta.gov/directives/attach/UIPL/UIPL_16-20_Change_4.pdf](https://wdr.doleta.gov/directives/attach/UIPL/UIPL_16-20_Change_4.pdf)
 
 [^18]:
-
-     USPS is a logical partner here, which could provide identity verification in post offices and offer rural in-person remote proofing by postal workers.
+	USPS is a logical partner here, which could provide identity verification in post offices and offer rural in-person remote proofing by postal workers.
 
 [^19]:
      With additional training, DOL could provide in-person identity proofing options at DOL offices.
 
 [^20]:
-
-     https://www.fedscoop.com/id-brings-virtual-identity-proofing-va/
+     [https://www.fedscoop.com/id-brings-virtual-identity-proofing-va/](https://www.fedscoop.com/id-brings-virtual-identity-proofing-va/)
 
 [^21]:
      IRS uses Certified Acceptance Agents to verify documents for ITINs
 
 [^22]:
-     http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf
+     [http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 

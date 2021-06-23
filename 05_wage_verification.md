@@ -5,7 +5,7 @@ permalink: /Wage/
 nav: true
 weight: 1
 toc: true
-intro_image: https://picsum.photos/2000/800
+intro_image: /assets/images/wage_verification.png
 ---
 
 ## Veterans
@@ -95,48 +95,48 @@ There are 2 main drawbacks to this:
 ### Recommendation for the federal government
 One proposal to address these issues would be for the U.S. DOL to pilot an online individual unemployment account, similar to online Social Security and Internal Revenue Service accounts. This would allow any individual to check their cross-state wages and correct inaccuracies _before_ ever applying for unemployment. The new use case for this wage data would uncover any underlying data issues, allowing the involved systems to resolve them outside of the chaos of a pandemic.
 
+<hr>
+### Go to the next section: [Claimant Experience](https://improveunemployment.com/Experience/)
+<hr>
 
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
 [^17]:
-     _“Although commonly used by federal agencies for remote identity proofing, knowledge-based verification techniques pose security risks because an attacker could obtain and use an individual’s personal information to answer knowledge-based verification questions and successfully impersonate that individual. **As such, NIST’s 2017 guidance on remote identity proofing effectively prohibits the use of knowledge-based verification for sensitive applications**. The guidance states that the ease with which an attacker can discover the answers to many knowledge-based questions and the relatively small number of possible responses cause the method to have an unacceptably high risk of being successfully compromised by an attacker.” - GAO _ https://www.gao.gov/assets/gao-19-288.pdf
+     _“Although commonly used by federal agencies for remote identity proofing, knowledge-based verification techniques pose security risks because an attacker could obtain and use an individual’s personal information to answer knowledge-based verification questions and successfully impersonate that individual. **As such, NIST’s 2017 guidance on remote identity proofing effectively prohibits the use of knowledge-based verification for sensitive applications**. The guidance states that the ease with which an attacker can discover the answers to many knowledge-based questions and the relatively small number of possible responses cause the method to have an unacceptably high risk of being successfully compromised by an attacker.” - GAO [https://www.gao.gov/assets/gao-19-288.pdf](https://www.gao.gov/assets/gao-19-288.pdf)
 
 [^18]:
-     U.S. DOL already requires myriad identity verification requirements, listed on page 20 here: https://wdr.doleta.gov/directives/attach/UIPL/UIPL_16-20_Change_4.pdf
+     U.S. DOL already requires myriad identity verification requirements, listed on page 20 here: [https://wdr.doleta.gov/directives/attach/UIPL/UIPL_16-20_Change_4.pdf](https://wdr.doleta.gov/directives/attach/UIPL/UIPL_16-20_Change_4.pdf)
 
 [^19]:
-
      USPS is a logical partner here, which could provide identity verification in post offices and offer rural in-person remote proofing by postal workers.
 
 [^20]:
      With additional training, DOL could provide in-person identity proofing options at DOL offices.
 
 [^21]:
-
-     https://www.fedscoop.com/id-brings-virtual-identity-proofing-va/
+     [https://www.fedscoop.com/id-brings-virtual-identity-proofing-va/](https://www.fedscoop.com/id-brings-virtual-identity-proofing-va/)
 
 [^22]:
      IRS uses Certified Acceptance Agents to verify documents for ITINs
 
 [^23]:
-     http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf
+     [http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 
 [^24]:
-     https://wdr.doleta.gov/directives/attach/UIPL/UIPL_16-20_Change_4.pdf
+     [https://wdr.doleta.gov/directives/attach/UIPL/UIPL_16-20_Change_4.pdf](https://wdr.doleta.gov/directives/attach/UIPL/UIPL_16-20_Change_4.pdf)
 
 [^25]:
-     https://www.cnbc.com/2020/12/28/op-ed-more-covid-stimulus-unemployment-fraudsters-will-prey-on-it.html
-
+     [https://www.cnbc.com/2020/12/28/op-ed-more-covid-stimulus-unemployment-fraudsters-will-prey-on-it.html](https://www.cnbc.com/2020/12/28/op-ed-more-covid-stimulus-unemployment-fraudsters-will-prey-on-it.html)
 [^26]:
-     https://www.cnbc.com/2020/12/28/op-ed-more-covid-stimulus-unemployment-fraudsters-will-prey-on-it.html
+     [https://www.cnbc.com/2020/12/28/op-ed-more-covid-stimulus-unemployment-fraudsters-will-prey-on-it.html](https://www.cnbc.com/2020/12/28/op-ed-more-covid-stimulus-unemployment-fraudsters-will-prey-on-it.html)
 
 [^27]:
-     [https://wdr.doleta.gov/directives/attach/UIPL/UIPL_23-20.pdf](https://wdr.doleta.gov/directives/attach/UIPL/UIPL_23-20.pdf) page 5
+     [https://wdr.doleta.gov/directives/attach/UIPL/UIPL_23-20.pdf](https://wdr.doleta.gov/directives/attach/UIPL/UIPL_23-20.pdf) Page 5
 
 [^28]:
      “ICON is an umbrella term that reflects 3 different data transactions” - NASWA
 
 [^29]:
-     https://usdr.gitbook.io/unemployment-insurance-modernization/ui-journey-map/the-agency-journey/validate-monetary-eligibility
+     [https://usdr.gitbook.io/unemployment-insurance-modernization/ui-journey-map/the-agency-journey/validate-monetary-eligibility](https://usdr.gitbook.io/unemployment-insurance-modernization/ui-journey-map/the-agency-journey/validate-monetary-eligibility)

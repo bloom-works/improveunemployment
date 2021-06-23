@@ -5,7 +5,7 @@ permalink: /Experience/
 nav: true
 weight: 1
 toc: true
-intro_image: https://picsum.photos/2000/800
+intro_image: /assets/images/claimant_experience.png
 ---
 
 ## Application Experience
@@ -27,7 +27,7 @@ For tips on how to make sure your content is findable, [check out this article o
 
 ### Design for the people who are hardest to reach.[^31]
 
-> “Designing for the 10%. An important principle we consider is to design policy for the 10% of the population that is hardest to reach. We believe that by designing for those who are hardest to serve and most in need, the policy will work better for everyone. This means approaching policy design with an equity lense from the outset.“[^32] — New America Foundation
+> “Designing for the 10%. An important principle we consider is to design policy for the 10% of the population that is hardest to reach. We believe that by designing for those who are hardest to serve and most in need, the policy will work better for everyone. This means approaching policy design with an equity lense from the outset.“[^32] _— New America Foundation_
 
 If you start by addressing the needs of the people you have the hardest time reaching, you’ll be able to develop a process that works for everyone. The UI application process in most states has been cobbled together over years, rather than designed from start to finish. These processes are artifacts of decades of changes, merges, and updates.
 
@@ -55,27 +55,27 @@ Redesign the unemployment landing page to draw attention to the most important i
 
 [Civilla ](https://civilla.org/)and the [New America Foundation](https://www.newamerica.org/) made the following recommendations for the Michigan unemployment program based on research with claimants. We’re using them here with permission, so that other states can benefit from the guidance. 
 
-![Image goes here](/assets/images/image8.png)
+![Simplified application](/assets/images/image8.png)
 #### **Simplified application with help text**
 _Simplify the language on the unemployment application and add help text to answer claimant questions while they are filing._ <br>
 Today, a lot of common questions are answered in UIA’s FAQs rather than through “just in time” guidance when claimants need it most. A simplified application with help text would significantly improve the claimant experience, decrease call volume, and help mitigate errors. Additionally, UIA should integrate the application for PUA (or similar programs) with the UI application. This way, claimants would not need to get denied from UI and then re-apply to PUA.[^34]
 
-![Image goes here](/assets/images/image10.png)
+![Confirmation page](/assets/images/image10.png)
 #### **Confirmation page**
 _Design a confirmation page that shares clear next steps with claimants, including how to upload documents to verify their identity._ <br>
 Many claimants assume that once they submit their claim, the rest is up to UIA. But this is not the case. A confirmation page would help claimants follow through on documentation requirements and speed up processing for UIA staff.[^35]
 
-![Image goes here](/assets/images/image7.png)
+![Letter](/assets/images/image7.png)
 #### **Monetary determination letter**
 _Redesign the Monetary Determination letter and File Protest form._ <br>
 If approved or denied, claimants should receive a redesigned Monetary Determination letter, with simple language and clear next steps. The letter should be packaged with a redesigned File Protest form that explains the steps claimants can take to protest the decision or the benefit amount. Currently, these forms are difficult for claimants to understand and generate a high volume of calls for the agency.[^36]
 
-![Image goes here](/assets/images/image5.png)
+![Text message](/assets/images/image5.png)
 #### **Reminder text messages**
 _Implement text messages to remind claimants of the actions they need to take and direct them to the MiWAM portal for case updates._ <br>
 Text message reminders would help claimants complete benefit requirements and recertify every two weeks once they’re approved.[^37]
 
-![Image goes here](/assets/images/image7.png)
+![Extended letter](/assets/images/image7.png)
 #### **Benefits exhausted/extended letter**
 _Redesign the Benefits Exhausted/Extended letter._ <br>
 When a claimants’ benefits are exhausted or extended, they should receive a redesigned letter in the mail that notifies them of their exhausted benefits and provides clear next steps. [P12](https://docs.google.com/document/d/1nBPDEa8l8RSrKgm2o8cx6RO7xYkEN7nyp1yVfGg6OXk/edit?ts=6061ef4a)
@@ -133,9 +133,9 @@ These include:
 *   Clear action steps for claimants when they need to take action 
 *   Proactive “push” updates (by email or SMS)
 
-> “Online portals should give claimants a clear picture about what their claim status is—not just for their peace of mind, but also to relieve pressure on phone lines.”[^48]_- NELP_
+> “Online portals should give claimants a clear picture about what their claim status is—not just for their peace of mind, but also to relieve pressure on phone lines.”[^48] _- NELP_
 
-> “In a recent discovery sprint on UI claim status, Nava’s user research concluded that communicating with claimants every step of the way would decrease anxiety and reduce load on call center staff.”[^49]_- Nava Public Benefit Corporation_
+> “In a recent discovery sprint on UI claim status, Nava’s user research concluded that communicating with claimants every step of the way would decrease anxiety and reduce load on call center staff.”[^49] _- Nava Public Benefit Corporation_
 
 
 ### Here are a few success stories from states that provide clear information about claim status.
@@ -145,7 +145,7 @@ These include:
 
 ### You don’t have to overhaul your whole system in order to provide better updates.
 
-> “Agencies should iterate toward a complete status-checking experience — they shouldn’t try to do it all at once. E.g., it’s impactful to show someone their initial application status even if you can’t yet show weekly certification status or vice versa, or to show that a weekly certification was deemed eligible even if you can’t yet show how much/whether they have been paid.”[^50]_- USDR_
+> “Agencies should iterate toward a complete status-checking experience — they shouldn’t try to do it all at once. E.g., it’s impactful to show someone their initial application status even if you can’t yet show weekly certification status or vice versa, or to show that a weekly certification was deemed eligible even if you can’t yet show how much/whether they have been paid.”[^50] _- USDR_
 
 Multiple states successfully used the [strangler pattern](https://improveunemployment.com/tech/#strangle-the-mainframe) to launch claim status trackers in weeks alongside (not within) the mainframe. Claim status updates don’t have to be real-time; syncing status once a day (with clear messaging about when the update happens, so claimants don’t refresh the page in frustration all day) with the mainframe can be plenty adequate.
 
@@ -159,13 +159,13 @@ In order to continue receiving unemployment benefits, claimants need to “recer
 
 Claimants have to answer questions about each individual week on either a weekly or biweekly basis, depending on the state. 
 
-> “Determining whether an individual is not entitled to any other UC for a week requires states to confirm whether the individual has met the requirements to receive UC for that week.”[^51]_— U.S. Department of Labor_
+> “Determining whether an individual is not entitled to any other UC for a week requires states to confirm whether the individual has met the requirements to receive UC for that week.”[^51] _— U.S. Department of Labor_
 
 
 ### States need to provide more than one way to recertify.
 Just as people should be able to file for their initial unemployment claim via their mobile phone, they should also be able to recertify via mobile. Some states have mobile responsive websites for recertifying, and some have created a capability for recertifying via text message.
 
-> “A tool that makes this process as easy as possible is critical to minimizing the administrative burden on recipients and keeping people enrolled in benefits.”[^52]_— Nava Public Benefit Corporation_ 
+> “A tool that makes this process as easy as possible is critical to minimizing the administrative burden on recipients and keeping people enrolled in benefits.”[^52] _— Nava Public Benefit Corporation_ 
 
 At a minimum, claimants should be able to recertify by:
 *   Web self-service
@@ -333,7 +333,7 @@ U.S. DOL’s [UIPL 02-16](https://wdr.doleta.gov/directives/attach/UIPL/UIPL_02-
 ### Recommendation for the federal government
 A recommendation for U.S. DOL is to launch a central team of multi-lingual support for transadapting vital unemployment documents and information. This team could generate “Babel notices” which are brief directions in a variety of languages pointing someone to the transadapted resources. This way, clear and well-written unemployment content can be available in a wide variety of languages, without requiring each state to independently resource their own teams.
 
-> “Another key consideration is that civil rights laws require that states translate their websites and applications into Spanish and other commonly spoken languages. Right now, an unemployed worker with limited English skills may have no choice but to file an application over the phone with an interpreter. With so many seeking help, workers are stuck on hold for hours when they manage to get past a busy signal. It would be more efficient to translate the online materials and ensure equal access.”[^63]_- NELP_
+> “Another key consideration is that civil rights laws require that states translate their websites and applications into Spanish and other commonly spoken languages. Right now, an unemployed worker with limited English skills may have no choice but to file an application over the phone with an interpreter. With so many seeking help, workers are stuck on hold for hours when they manage to get past a busy signal. It would be more efficient to translate the online materials and ensure equal access.”[^63] _- NELP_
 
 
 
@@ -351,13 +351,13 @@ U.S. DOL’s UIPL 02-16[^65] requires states to have accessible claimant experie
 ## Mobile Access
 States with [instrumentation](https://improveunemployment.com/tech/#website-instrumentation) have found that the _majority_ of claimants are accessing unemployment benefits from mobile devices. Many individuals with limited or no computer access still have mobile smartphones, and need to be able to complete all unemployment-related self-service tasks with it.
 
->“More people have mobile phones than desktop or laptop computers, and public access to computers has vanished in an era of social distancing. Low-wage workers and workers of color are particularly likely to rely on their phones for Internet access. While more than 80 percent of white adults report owning a desktop or laptop, fewer than 60 percent of Black and Latinx adults do. States must also allow workers and employers to email documents or upload them from their phones.”[^66]_— The Century Foundation_
+>“More people have mobile phones than desktop or laptop computers, and public access to computers has vanished in an era of social distancing. Low-wage workers and workers of color are particularly likely to rely on their phones for Internet access. While more than 80 percent of white adults report owning a desktop or laptop, fewer than 60 percent of Black and Latinx adults do. States must also allow workers and employers to email documents or upload them from their phones.”[^66] _— The Century Foundation_
 
 [Michigan’s proposed mobile-first approach](https://www.codeforamerica.org/news/safety-net-services-built-for-outcomes/) to redesigning its safety net and its [mobile unemployment interface designs](https://docs.google.com/document/d/1yCqeyJeKOVi29iBS02m7r_ZncB9L9fOQwghqrqXwEbM/edit) can serve as a model for the unemployment space. An easy-to-use, plain language, accessible mobile interface benefits everyone on mobile — and everyone on other devices as well. And the more individuals who can and want to use self-service are able to do so successfully, the more that scarce high-touch human interactions can focus on those claimants who can’t or don’t want to use self-service.
 
 When Virginia first launched its mobile interface, it received positive feedback and had 50,000 registered new users within the first 2 days.
 
->“Similarly, unemployment websites and applications must be mobile-responsive. More people have mobile phones than desktop or laptop computers, and public access to computers has vanished in an era of social distancing. Workers in low-paid jobs and workers of color are particularly likely to rely on their phones for Internet access. While more than 80 percent of white adults report owning a desktop or laptop, fewer than 60 percent of Black and Latinx adults do. States must also allow workers and employers to email in or upload documents from their phones. Believe it or not, some states are still asking workers to fax in documents. Whatever options and support materials state agencies provide to apply for unemployment insurance programs need to account for accessibility and language translation. And according to federal law, states need to offer a way other than online filing if there are technology hurdles that would “interfere with a claimant’s access in applying for benefits.”[^67]_— NELP_
+>“Similarly, unemployment websites and applications must be mobile-responsive. More people have mobile phones than desktop or laptop computers, and public access to computers has vanished in an era of social distancing. Workers in low-paid jobs and workers of color are particularly likely to rely on their phones for Internet access. While more than 80 percent of white adults report owning a desktop or laptop, fewer than 60 percent of Black and Latinx adults do. States must also allow workers and employers to email in or upload documents from their phones. Believe it or not, some states are still asking workers to fax in documents. Whatever options and support materials state agencies provide to apply for unemployment insurance programs need to account for accessibility and language translation. And according to federal law, states need to offer a way other than online filing if there are technology hurdles that would “interfere with a claimant’s access in applying for benefits.”[^67] _— NELP_
 
 Every state should have all major unemployment benefit tasks available via _at least_ a mobile interface, and preferably, a mobile app, including:
 *   Applying
@@ -405,7 +405,7 @@ Password or PIN resets were cited as reasons for high call volume in states wher
 
 We recommend that every state provide instant password/PIN reset self-service. This service should follow best practices so that a malicious bot cannot intentionally try and fail to reset every user’s password, thus locking all users out of the system. 
 
->“As is true for other government IT systems, states should update their password reset protocols. In some states, workers must be mailed a new password; in others, staff cannot process claims because they are busy answering phone calls about password resets. Technology exists for states to implement secure password reset protocols that do not require action by the agency, which saves time for everyone.”[^72]_— The National Employment Law Project (NELP)_
+>“As is true for other government IT systems, states should update their password reset protocols. In some states, workers must be mailed a new password; in others, staff cannot process claims because they are busy answering phone calls about password resets. Technology exists for states to implement secure password reset protocols that do not require action by the agency, which saves time for everyone.”[^72] _— The National Employment Law Project (NELP)_
 
 
 
@@ -421,19 +421,21 @@ Developing a single, easy-to-understand list of separation reasons would be an i
 
 From a policy perspective, there’s also an open window for increased consistency. [NELP recommends](https://www.nelp.org/publication/unemployment-pandemic-addressing-americas-job-crisis/) that “[g]ood cause to quit should be uniform across states, so workers fleeing domestic violence, following a spouse whose job has moved, or whose work jeopardizes their health and safety should be able to resign and receive UI.”
 
-
+<hr>
+### Go to the next section: [Payments](https://improveunemployment.com/Payments/)
+<hr>
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
 [^30]:
-     https://docs.google.com/document/d/1nBPDEa8l8RSrKgm2o8cx6RO7xYkEN7nyp1yVfGg6OXk/edit?ts=6061ef4a p11
+     [https://docs.google.com/document/d/1nBPDEa8l8RSrKgm2o8cx6RO7xYkEN7nyp1yVfGg6OXk/edit?ts=6061ef4a](https://docs.google.com/document/d/1nBPDEa8l8RSrKgm2o8cx6RO7xYkEN7nyp1yVfGg6OXk/edit?ts=6061ef4a) Page 11
 
 [^31]:
      “executive departments and agencies (agencies) must recognize and work to redress inequities in their policies and programs that serve as barriers to equal opportunity.” - [EO](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) Definition of equity in EO: “(a)  The term “equity” means the consistent and systematic fair, just, and impartial treatment of all individuals, including individuals who belong to underserved communities that have been denied such treatment, such as Black, Latino, and Indigenous and Native American persons, Asian Americans and Pacific Islanders and other persons of color; members of religious minorities; lesbian, gay, bisexual, transgender, and queer (LGBTQ+) persons; persons with disabilities; persons who live in rural areas; and persons otherwise adversely affected by persistent poverty or inequality.” 
 
 [^32]:
-     https://www.newamerica.org/new-practice-lab/racial-equity-framework/blog/the-new-practice-labs-racial-equity-framework/
+     [https://www.newamerica.org/new-practice-lab/racial-equity-framework/blog/the-new-practice-labs-racial-equity-framework/](https://www.newamerica.org/new-practice-lab/racial-equity-framework/blog/the-new-practice-labs-racial-equity-framework/)
 
 [^33]:
      [https://docs.google.com/document/d/1nBPDEa8l8RSrKgm2o8cx6RO7xYkEN7nyp1yVfGg6OXk/edit?ts=6061ef4a](https://docs.google.com/document/d/1nBPDEa8l8RSrKgm2o8cx6RO7xYkEN7nyp1yVfGg6OXk/edit?ts=6061ef4a) p11
@@ -454,23 +456,22 @@ From a policy perspective, there’s also an open window for increased consisten
      [https://docs.google.com/document/d/1nBPDEa8l8RSrKgm2o8cx6RO7xYkEN7nyp1yVfGg6OXk/edit?ts=6061ef4a](https://docs.google.com/document/d/1nBPDEa8l8RSrKgm2o8cx6RO7xYkEN7nyp1yVfGg6OXk/edit?ts=6061ef4a) 
 
 [^39]:
-     https://adhoc.team/2021/06/11/transforming-unemployment-insurance-systems/
+     [https://adhoc.team/2021/06/11/transforming-unemployment-insurance-systems/](https://adhoc.team/2021/06/11/transforming-unemployment-insurance-systems/)
 
 [^40]:
-     https://adhoc.team/2021/06/11/transforming-unemployment-insurance-systems/
+     [https://adhoc.team/2021/06/11/transforming-unemployment-insurance-systems/](https://adhoc.team/2021/06/11/transforming-unemployment-insurance-systems/)
 
 [^41]:
-     Working with real users: “With the additional funding should come strong federal oversight and enforcement, including tangible requirements that the modernization process include input from stakeholders (including workers and their advocates) from beginning to end, and comprehensive user testing that ensures participation from Black people who are faced with the most barriers, and all communities of color; those on the other side of the digital divide; people with limited English proficiency; and people with disabilities.” ([link](https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/))
+     Working with real users: “With the additional funding should come strong federal oversight and enforcement, including tangible requirements that the modernization process include input from stakeholders (including workers and their advocates) from beginning to end, and comprehensive user testing that ensures participation from Black people who are faced with the most barriers, and all communities of color; those on the other side of the digital divide; people with limited English proficiency; and people with disabilities.” ([https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/](https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/))
 
 [^42]:
      One resource guide: [https://www.nngroup.com/articles/usability-testing-101/](https://www.nngroup.com/articles/usability-testing-101/)
 
 [^43]:
-
-     https://usdr.gitbook.io/unemployment-insurance-modernization/identity-proofing-vendor-comparison/race-and-inequity-in-identity-proofing-methods/recommendation-2-increase-accountability-for-ensuring-rightful-claimants-make-it-through-the-system
+     [https://usdr.gitbook.io/unemployment-insurance-modernization/identity-proofing-vendor-comparison/race-and-inequity-in-identity-proofing-methods/recommendation-2-increase-accountability-for-ensuring-rightful-claimants-make-it-through-the-system](https://usdr.gitbook.io/unemployment-insurance-modernization/identity-proofing-vendor-comparison/race-and-inequity-in-identity-proofing-methods/recommendation-2-increase-accountability-for-ensuring-rightful-claimants-make-it-through-the-system)
 
 [^44]:
-     “The single strongest recommendation in this report is for states to place their customers at the center of a modernization project, from start to finish. The biggest mistake states made was failing to involve their customers—workers and employers—at critical junctures in the modernization process. This led to systems touted as convenient and accessible, but which claimants often found challenging and unintuitive. Customer-centered design and user experience (UX) testing are widely accepted best practices in the private sector, and should be a core part of any UI modernization effort.” https://tcf.org/content/report/centering-workers-how-to-modernize-unemployment-insurance-technology/
+     “The single strongest recommendation in this report is for states to place their customers at the center of a modernization project, from start to finish. The biggest mistake states made was failing to involve their customers—workers and employers—at critical junctures in the modernization process. This led to systems touted as convenient and accessible, but which claimants often found challenging and unintuitive. Customer-centered design and user experience (UX) testing are widely accepted best practices in the private sector, and should be a core part of any UI modernization effort.” [https://tcf.org/content/report/centering-workers-how-to-modernize-unemployment-insurance-technology/](https://tcf.org/content/report/centering-workers-how-to-modernize-unemployment-insurance-technology/)
 
 [^45]:
       Florida’s adoption of a mandatory online claim-filing system and virtual elimination of filing by telephone, long the primary method of filing, disenfranchised thousands of UI claimants who could not successfully navigate the complex and unwieldy online application. [NELP](https://www.nelp.org/publication/aint-no-sunshine-florida-unemployment-insurance/)
@@ -482,31 +483,30 @@ From a policy perspective, there’s also an open window for increased consisten
      “Communication vacuums are likely filled with misinformation. For state officials with limited resources and high demands on their time, skipping over communication to do "the real work" of implementing new federal mandates, responding to high customer volume, or managing the new crisis each day (the “real work”), is understandable and even expected. Leaders may only be prompted to prioritize communication when a crisis makes doing so absolutely necessary. But lack of communication and guidance can cause staff to act on their assumptions or not act at all, which will exacerbate or create issues. States learned that misinformation and frustration from lack of guidance are difficult to correct and turn around. “ [p 17](https://www.clasp.org/sites/default/files/publications/2017/04/WSS_Lessons_4.1.16-.pdf)
 
 [^48]:
-     https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/
+     [https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/](https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/)
 
 [^49]:
-     https://blog.navapbc.com/to-reimagine-unemployment-insurance-services-start-small-8c93eb4f1eea
+     [https://blog.navapbc.com/to-reimagine-unemployment-insurance-services-start-small-8c93eb4f1eea](https://blog.navapbc.com/to-reimagine-unemployment-insurance-services-start-small-8c93eb4f1eea)
 
 [^50]:
-     https://usdr.gitbook.io/unemployment-insurance-modernization/ui-journey-map/the-claimant-journey/know-my-claim-status
+     [https://usdr.gitbook.io/unemployment-insurance-modernization/ui-journey-map/the-claimant-journey/know-my-claim-status](https://usdr.gitbook.io/unemployment-insurance-modernization/ui-journey-map/the-claimant-journey/know-my-claim-status)
 
 [^51]:
-     https://wdr.doleta.gov/directives/attach/UIPL/UIPL_23-20.pdf
+     [https://wdr.doleta.gov/directives/attach/UIPL/UIPL_23-20.pdf](https://wdr.doleta.gov/directives/attach/UIPL/UIPL_23-20.pdf)
 
 [^52]:
-     https://blog.navapbc.com/to-reimagine-unemployment-insurance-services-start-small-8c93eb4f1eea
+     [https://blog.navapbc.com/to-reimagine-unemployment-insurance-services-start-small-8c93eb4f1eea](https://blog.navapbc.com/to-reimagine-unemployment-insurance-services-start-small-8c93eb4f1eea)
 
 [^53]:
      [https://s3.amazonaws.com/aws.upl/nwica.org/wic-technology-landscape-_-final-report-design.pdf](https://s3.amazonaws.com/aws.upl/nwica.org/wic-technology-landscape-_-final-report-design.pdf) Section 5.3
 
 [^54]:
-     https://usdr.gitbook.io/unemployment-insurance-modernization/ui-journey-map/the-claimant-journey/certify-weekly
+     [https://usdr.gitbook.io/unemployment-insurance-modernization/ui-journey-map/the-claimant-journey/certify-weekly](https://usdr.gitbook.io/unemployment-insurance-modernization/ui-journey-map/the-claimant-journey/certify-weekly)
 
 [^55]:
-     https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/
+     [https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/](https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/)
 
 [^56]:
-
      [https://madison.com/wsj/business/wisconsin-creating-plain-language-unemployment-applications-in-effort-to-address-claims-backlog/article_988d3fed-2ea3-5e63-9067-d3637cc2ba44.html](https://madison.com/wsj/business/wisconsin-creating-plain-language-unemployment-applications-in-effort-to-address-claims-backlog/article_988d3fed-2ea3-5e63-9067-d3637cc2ba44.html) 
 
 [^57]:
@@ -516,7 +516,6 @@ From a policy perspective, there’s also an open window for increased consisten
      [https://dwd.wisconsin.gov/uibola/uiac/materials/2021/20210520meeting.pdf](https://dwd.wisconsin.gov/uibola/uiac/materials/2021/20210520meeting.pdf) 
 
 [^59]:
-
      [https://www.govops.ca.gov/wp-content/uploads/sites/11/2020/09/Assessment.pdf](https://www.govops.ca.gov/wp-content/uploads/sites/11/2020/09/Assessment.pdf), page 49 
 
 [^60]:
@@ -526,35 +525,33 @@ From a policy perspective, there’s also an open window for increased consisten
      [https://docs.google.com/document/d/1nBPDEa8l8RSrKgm2o8cx6RO7xYkEN7nyp1yVfGg6OXk/edit?ts=6061ef4a](https://docs.google.com/document/d/1nBPDEa8l8RSrKgm2o8cx6RO7xYkEN7nyp1yVfGg6OXk/edit?ts=6061ef4a) 
 
 [^62]:
-
-     https://docs.google.com/document/d/1yCqeyJeKOVi29iBS02m7r_ZncB9L9fOQwghqrqXwEbM/edit
+     [https://docs.google.com/document/d/1yCqeyJeKOVi29iBS02m7r_ZncB9L9fOQwghqrqXwEbM/edit](https://docs.google.com/document/d/1yCqeyJeKOVi29iBS02m7r_ZncB9L9fOQwghqrqXwEbM/edit)
 
 [^63]:
-     https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/
+     [https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/](https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/)
 
 [^64]:
-     https://www.govops.ca.gov/wp-content/uploads/sites/11/2020/09/Assessment.pdf
+     [https://www.govops.ca.gov/wp-content/uploads/sites/11/2020/09/Assessment.pdf](https://www.govops.ca.gov/wp-content/uploads/sites/11/2020/09/Assessment.pdf)
 
 [^65]:
-     https://wdr.doleta.gov/directives/attach/UIPL/UIPL_02-16.pdf
+     [https://wdr.doleta.gov/directives/attach/UIPL/UIPL_02-16.pdf](https://wdr.doleta.gov/directives/attach/UIPL/UIPL_02-16.pdf)
 
 [^66]:
-     https://tcf.org/content/report/centering-workers-how-to-modernize-unemployment-insurance-technology/
+     [https://tcf.org/content/report/centering-workers-how-to-modernize-unemployment-insurance-technology/](https://tcf.org/content/report/centering-workers-how-to-modernize-unemployment-insurance-technology/)
 
 [^67]:
-     https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/
+     [https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/](https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/)
 
 [^68]:
-     https://docs.google.com/document/d/1k4kr0HsfBBFOvtSHnvjTyn6tGMldyudB92UEJl735J8/edit?ts=607dd3b8#heading=h.r6opfpd5aks2
-
+      [https://docs.google.com/document/d/1k4kr0HsfBBFOvtSHnvjTyn6tGMldyudB92UEJl735J8/edit?ts=607dd3b8#heading=h.r6opfpd5aks2](https://docs.google.com/document/d/1k4kr0HsfBBFOvtSHnvjTyn6tGMldyudB92UEJl735J8/edit?ts=607dd3b8#heading=h.r6opfpd5aks2)
 [^69]:
-     https://docs.google.com/document/d/1k4kr0HsfBBFOvtSHnvjTyn6tGMldyudB92UEJl735J8/edit?ts=607dd3b8#heading=h.r6opfpd5aks2
+     [https://docs.google.com/document/d/1k4kr0HsfBBFOvtSHnvjTyn6tGMldyudB92UEJl735J8/edit?ts=607dd3b8#heading=h.r6opfpd5aks2](https://docs.google.com/document/d/1k4kr0HsfBBFOvtSHnvjTyn6tGMldyudB92UEJl735J8/edit?ts=607dd3b8#heading=h.r6opfpd5aks2
 
 [^70]:
-     “States also sought to align policies across work support programs to reduce administrative burdens on families eligible for more than one program. States established processes for cross-program review of new policies, aligned the timing of benefit redeterminations so families could renew benefits for two or more programs at the same time, and used electronic data to autoenroll SNAP recipients in Medicaid. By streamlining and aligning policies—or as an interviewee in one state put it, “reducing duplicative requests for the same paperwork”—states found they could improve outcomes for workers and clients. For more information on how WSS states changed policies to streamline access to work supports, see Isaacs, Katz, and Kassabian (2016).” [link](https://www.urban.org/research/publication/findings-work-support-strategies-evaluation-streamlining-access-strengthening-families)
+     “States also sought to align policies across work support programs to reduce administrative burdens on families eligible for more than one program. States established processes for cross-program review of new policies, aligned the timing of benefit redeterminations so families could renew benefits for two or more programs at the same time, and used electronic data to autoenroll SNAP recipients in Medicaid. By streamlining and aligning policies—or as an interviewee in one state put it, “reducing duplicative requests for the same paperwork”—states found they could improve outcomes for workers and clients. For more information on how WSS states changed policies to streamline access to work supports, see Isaacs, Katz, and Kassabian (2016).” [https://www.urban.org/research/publication/findings-work-support-strategies-evaluation-streamlining-access-strengthening-families](https://www.urban.org/research/publication/findings-work-support-strategies-evaluation-streamlining-access-strengthening-families)
 
 [^71]:
-     https://www.urban.org/research/publication/findings-work-support-strategies-evaluation-streamlining-access-strengthening-families
+     [https://www.urban.org/research/publication/findings-work-support-strategies-evaluation-streamlining-access-strengthening-families](https://www.urban.org/research/publication/findings-work-support-strategies-evaluation-streamlining-access-strengthening-families)
 
 [^72]:
-     https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/
+     [https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/](https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/)

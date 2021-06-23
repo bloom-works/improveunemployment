@@ -5,7 +5,7 @@ permalink: /Customer/
 nav: true
 weight: 1
 toc: true
-intro_image: https://picsum.photos/2000/800
+intro_image: /assets/images/customer_service.png
 ---
 
 ## First Contact Resolution
@@ -13,7 +13,7 @@ First contact resolution is when a claimant calling with a question or concern h
 
 First contact resolution rates are a standard measurement in private sector customer service, but we didn’t find any state that was tracking it for unemployment. In fact, some states shared with us that they were unable to even count call volume until the pandemic led them to adopt new call center technology like AWS Connect.
 
-### We recommend a [demonstration project](https://bloom-new-america.netlify.app/way_forward/#demonstration-projects--pilots) to measure first contact resolution.
+### We recommend a [demonstration project](https://improveunemployment.com/way_forward/#demonstration-projects--pilots) to measure first contact resolution.
 Some examples of what this project could focus on include:
 *   How to resolve one claimant across all channels (e.g., chat, email, and phone) 
 *   The ideal call reason categories for measuring contact reason with enough granularity to work through and automate or eliminate the top reasons
@@ -39,7 +39,7 @@ It’s important to measure _why_ people are calling in and ensure those reasons
 North Carolina provides claim status updates through an automated phone system. If the claim status is that the claimant needs to take additional action, that claimant is immediately routed to a live agent, skipping wait time.
 
 ### Develop a contact center taxonomy.
-A [demonstration project](https://bloom-new-america.netlify.app/way_forward/#demonstration-projects--pilots) could be developing an optimal contact center taxonomy and routing tree methodology for capturing granular call reasons and maximizing self-service.
+A [demonstration project](https://improveunemployment.com/way_forward/#demonstration-projects--pilots) could be developing an optimal contact center taxonomy and routing tree methodology for capturing granular call reasons and maximizing self-service.
 
 ### Chat bots can help reduce call center volume.
 [Many states introduced chatbots](https://www.nascio.org/wp-content/uploads/2020/06/NASCIO_ChatbotsRespondtoCOVID-19.pdf) during the pandemic to help reduce call center volume for basic questions, provide claimants with claim status updates, and other tasks.[^95] Chatbots have proven useful in other benefits areas like WIC,[^96] but only if the self-service answers are effective.
@@ -90,7 +90,7 @@ High-quality help documentation offers many benefits, like:
 
 ### To be most helpful, documentation should meet these criteria.
 High-quality help documentation is:
-*   Written in [plain language](https://bloom-new-america.netlify.app/experience/#plain-language)
+*   Written in [plain language](https://improveunemployment.com/#plain-language)
 *   Easily discovered via search  — including both external search engines like Google, and also within an employment website’s search feature
 *   Contextual —  the explanation for a potentially confusing question should be right there next to the confusing question
 *   Data-driven — write content to address top questions[^101] from customer service and website searches
@@ -120,40 +120,43 @@ Community partner agencies expressed deep respect for the staff at UIA who navig
 In Nevada: 
 >“The Chair of the Strike Force was in frequent communication with a founding member of the Nevada Pandemic Unemployment Facebook group. This individual shared valuable information with the Chair who passed these insights from a claimant feedback loop to ESD. This type of communication should occur with DETR and community stakeholders just as other state agencies do with their stakeholders. Perhaps that was not possible when the crisis was at its highest peak as there was no one available to do it. However, this is an essential role that should be created in the future.” [Nevada](https://cms.detr.nv.gov/Content/Media/Strike_Force_Report_2021_FIN.pdf)
 
+<hr>
+### Go to the next section: [Procurement](https://improveunemployment.com/Procurement/)
+<hr>
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
 
 [^94]:
-     https://www.govops.ca.gov/wp-content/uploads/sites/11/2020/09/Assessment.pdf
+     [https://www.govops.ca.gov/wp-content/uploads/sites/11/2020/09/Assessment.pdf](https://www.govops.ca.gov/wp-content/uploads/sites/11/2020/09/Assessment.pdf)
 
 [^95]:
-     https://usdr.gitbook.io/unemployment-insurance-modernization/additional-deep-dives/customer-support-mechanisms-for-ui-agencies/customer-support-online-chatting/known-results
+     [https://usdr.gitbook.io/unemployment-insurance-modernization/additional-deep-dives/customer-support-mechanisms-for-ui-agencies/customer-support-online-chatting/known-results](https://usdr.gitbook.io/unemployment-insurance-modernization/additional-deep-dives/customer-support-mechanisms-for-ui-agencies/customer-support-online-chatting/known-results)
 
 [^96]:
-     https://s3.amazonaws.com/aws.upl/nwica.org/wic-technology-landscape-_-final-report-design.pdf
+     [https://s3.amazonaws.com/aws.upl/nwica.org/wic-technology-landscape-_-final-report-design.pdf](https://s3.amazonaws.com/aws.upl/nwica.org/wic-technology-landscape-_-final-report-design.pdf)
 
 [^97]:
-     https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/
+     [https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/](https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/)
 
 [^98]:
-     https://www.nascio.org/wp-content/uploads/2020/06/NASCIO_ChatbotsRespondtoCOVID-19.pdf
+     [https://www.nascio.org/wp-content/uploads/2020/06/NASCIO_ChatbotsRespondtoCOVID-19.pdf](https://www.nascio.org/wp-content/uploads/2020/06/NASCIO_ChatbotsRespondtoCOVID-19.pdf)
 
 [^99]:
-     https://tcf.org/content/report/centering-workers-how-to-modernize-unemployment-insurance-technology/
+     [https://tcf.org/content/report/centering-workers-how-to-modernize-unemployment-insurance-technology/](https://tcf.org/content/report/centering-workers-how-to-modernize-unemployment-insurance-technology/)
 
 [^100]:
-     https://danachisnell.com/wp-content/uploads/2020/08/Report_-Barriers-pain-points.pdf p15
+     [https://danachisnell.com/wp-content/uploads/2020/08/Report_-Barriers-pain-points.pdf](https://danachisnell.com/wp-content/uploads/2020/08/Report_-Barriers-pain-points.pdf) Page 15
 
 [^101]:
-     “States should identify common errors that users make and post tutorials or application guides to help avoid mistakes.” ([link](https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/))
+     “States should identify common errors that users make and post tutorials or application guides to help avoid mistakes.” [https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/](https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/)
 
 [^102]:
-     [https://danachisnell.com/wp-content/uploads/2020/08/Report_-Barriers-pain-points.pdf](https://danachisnell.com/wp-content/uploads/2020/08/Report_-Barriers-pain-points.pdf) p15
+     [https://danachisnell.com/wp-content/uploads/2020/08/Report_-Barriers-pain-points.pdf](https://danachisnell.com/wp-content/uploads/2020/08/Report_-Barriers-pain-points.pdf) Page 15
 
 [^103]:
-     https://www.americanprogress.org/issues/economy/reports/2021/04/06/497772/union-unemployment-insurance-navigators-boon-jobless-workers/
+     [https://www.americanprogress.org/issues/economy/reports/2021/04/06/497772/union-unemployment-insurance-navigators-boon-jobless-workers/](https://www.americanprogress.org/issues/economy/reports/2021/04/06/497772/union-unemployment-insurance-navigators-boon-jobless-workers/)
 
 [^104]:
-     [https://docs.google.com/document/d/1nBPDEa8l8RSrKgm2o8cx6RO7xYkEN7nyp1yVfGg6OXk/edit?ts=6061ef4a](https://docs.google.com/document/d/1nBPDEa8l8RSrKgm2o8cx6RO7xYkEN7nyp1yVfGg6OXk/edit?ts=6061ef4a) p 9
+     [https://docs.google.com/document/d/1nBPDEa8l8RSrKgm2o8cx6RO7xYkEN7nyp1yVfGg6OXk/edit?ts=6061ef4a](https://docs.google.com/document/d/1nBPDEa8l8RSrKgm2o8cx6RO7xYkEN7nyp1yVfGg6OXk/edit?ts=6061ef4a) Page 9

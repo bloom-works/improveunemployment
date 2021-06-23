@@ -5,7 +5,7 @@ permalink: /Payments/
 nav: true
 weight: 1
 toc: true
-intro_image: https://picsum.photos/2000/800
+intro_image: /assets/images/payments.png
 ---
 
 ## Payment Methods
@@ -81,21 +81,24 @@ The demonstration pilot would have to address and work through the risk of overp
 
 Once there’s a new definition of timeliness — informed by the demonstration project — we recommend that U.S. DOL make new technology grants contingent on meeting this new definition.
 
+<hr>
+### Go to the next section: [Claim Processing](https://improveunemployment.com/Processing/)
+<hr>
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
 [^71]:
-     https://www.urban.org/research/publication/findings-work-support-strategies-evaluation-streamlining-access-strengthening-families
+     [https://www.urban.org/research/publication/findings-work-support-strategies-evaluation-streamlining-access-strengthening-families](https://www.urban.org/research/publication/findings-work-support-strategies-evaluation-streamlining-access-strengthening-families)
 
 [^72]:
-     https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/
+     [https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/](https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/)
 
 [^73]:
-     Some states are actually fining restaurants that don’t offer multiple payment options: https://www.cnbc.com/2018/12/13/nyc-nj-target-cashless-businesses-alleging-bias-against-the-poor.html
+     Some states are actually fining restaurants that don’t offer multiple payment options: [https://www.cnbc.com/2018/12/13/nyc-nj-target-cashless-businesses-alleging-bias-against-the-poor.html](https://www.cnbc.com/2018/12/13/nyc-nj-target-cashless-businesses-alleging-bias-against-the-poor.html)
 
 [^74]:
-     Around 1 in 9 New Yorkers do not have bank accounts [link](https://www.nbcnewyork.com/news/coronavirus/very-hard-to-get-by-how-the-pandemic-has-affected-unbanked-new-yorkers/2959385/)
+     Around 1 in 9 New Yorkers do not have bank accounts [https://www.nbcnewyork.com/news/coronavirus/very-hard-to-get-by-how-the-pandemic-has-affected-unbanked-new-yorkers/2959385/](https://www.nbcnewyork.com/news/coronavirus/very-hard-to-get-by-how-the-pandemic-has-affected-unbanked-new-yorkers/2959385/)
 
 [^75]:
      McKinsey 2017 nearly half of Black households are underbanked or unbanked [link](https://www.mckinsey.com/industries/public-and-social-sector/our-insights/the-case-for-accelerating-financial-inclusion-in-black-communities#): “Banks in black neighborhoods require customers to deposit an average of 60 percent of their paychecks to avoid fees or account closures, compared with just 28 percent in white neighborhoods—a consequence of both higher bank fees and lower incomes.15 As a result, many black households rely on alternative financial services, such as check-cashing services, payday loans, money orders, and prepaid credit cards, all of which typically charge high fees. Over the course of a financial life, those fees can add up to an estimated $40,000.16 These obstacles and the distrust they engender make even the simplest transactions a challenge for black families.”
@@ -107,25 +110,25 @@ Once there’s a new definition of timeliness — informed by the demonstration 
      “Ten benefit programs carried $136.2 billion in prepaid loads during 2019, but only incurred $152.7 million in costs among all government distribution channels.” Mercator Advisory Group, December 2020. This amount is overwhelmingly ATM fees.
 
 [^78]:
-     https://danachisnell.com/wp-content/uploads/2020/08/Report_-Barriers-pain-points.pdf
+     [https://danachisnell.com/wp-content/uploads/2020/08/Report_-Barriers-pain-points.pdf](https://danachisnell.com/wp-content/uploads/2020/08/Report_-Barriers-pain-points.pdf)
 
 [^79]:
-     https://www.newamerica.org/pit/reports/establishing-emergency-cash-assistance-funds/delivering-cash/
+     [https://www.newamerica.org/pit/reports/establishing-emergency-cash-assistance-funds/delivering-cash/](https://www.newamerica.org/pit/reports/establishing-emergency-cash-assistance-funds/delivering-cash/)
 
 [^80]:
      Banks are given files from states to deliver unemployment benefits, so banks are not performing KYC (Know Your Customer) as they would in normal circumstances.
 
 [^81]:
-     https://www.newamerica.org/pit/reports/it-has-meant-everything-how-p-ebt-helped-families-in-michigan/successes/
+     [https://www.newamerica.org/pit/reports/it-has-meant-everything-how-p-ebt-helped-families-in-michigan/successes/](https://www.newamerica.org/pit/reports/it-has-meant-everything-how-p-ebt-helped-families-in-michigan/successes/)
 
 [^82]:
-     https://wdr.doleta.gov/directives/attach/UIPL/UIPL_16-21.pdf
+     [https://wdr.doleta.gov/directives/attach/UIPL/UIPL_16-21.pdf](https://wdr.doleta.gov/directives/attach/UIPL/UIPL_16-21.pdf)
 
 [^83]:
-     https://wdr.doleta.gov/directives/attach/UIPL4-01.cfm
+     [https://wdr.doleta.gov/directives/attach/UIPL4-01.cfm](https://wdr.doleta.gov/directives/attach/UIPL4-01.cfm)
 
 [^84]:
-     https://wdr.doleta.gov/directives/attach/UIPL/UIPL_01-16.pdf
+     [https://wdr.doleta.gov/directives/attach/UIPL/UIPL_01-16.pdf](https://wdr.doleta.gov/directives/attach/UIPL/UIPL_01-16.pdf)
 
 [^85]:
-     https://www.urban.org/research/publication/findings-work-support-strategies-evaluation-streamlining-access-strengthening-families
+     [https://www.urban.org/research/publication/findings-work-support-strategies-evaluation-streamlining-access-strengthening-families](https://www.urban.org/research/publication/findings-work-support-strategies-evaluation-streamlining-access-strengthening-families)
