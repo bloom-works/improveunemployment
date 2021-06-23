@@ -119,7 +119,7 @@ Instead, we should focus on ways to design effective, and largely (but not entir
 ### Many real people will not be able to get benefits unless we start fighting fraud effectively. 
 As of this writing, the majority of states have withdrawn from the PUA program, many citing fraud as a reason to discontinue delivering these benefits. This leaves many gig and freelance workers struggling to make ends meet as the pandemic grinds to its end. Some vendors, including large banks, have withdrawn from participating in unemployment benefits programs, citing fraud, which limits states’ ability to deliver the benefits even if they want to.
 
-Paying fraudulent claims is obviously not good for taxpayers, or for the employees and employers who paid into unemployment insurance accounts. But **fraud has cast a shadow over unemployment benefits as a whole.** 
+Paying fraudulent claims is obviously not good for taxpayers, or for the employees and employers who paid into unemployment insurance accounts. But **fraud has [cast a shadow](https://adhoc.team/2021/06/11/transforming-unemployment-insurance-systems/) over unemployment benefits as a whole.** 
 
 
 ## We already know how to fight this massive increase in identity fraud. 

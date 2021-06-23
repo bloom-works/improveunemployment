@@ -108,7 +108,7 @@ California is particularly adept, with a small team of programmers who can deplo
 ## Strangle the Mainframe
 Resource-strapped states may be relieved to learn that new technology isn’t an all or nothing decision. The so-called “strangler pattern” is a proven approach to gradually_ _replacing a mainframe with more modern technology. It starts with identifying the problems you need to solve.
 
-Replacing a mainframe is _not_ a goal or a solution in itself. You can deliver an excellent experience for claimants and employees while still running a mainframe. And you can also deliver a terrible experience for claimants and employees using new technology — and at the cost of thousands of taxpayer dollars. 
+Replacing a mainframe is _not_ a goal or a solution in itself. You can [deliver an excellent experience](https://adhoc.team/2021/06/11/transforming-unemployment-insurance-systems/) for claimants and employees while still running a mainframe. And you can also deliver a terrible experience for claimants and employees using new technology — and at the cost of thousands of taxpayer dollars. 
 
 
 ### The strangler pattern is based on incremental change. 
@@ -147,7 +147,7 @@ Moving to cloud computing solutions generally provides greater scalability and u
 
 Every state we spoke with that moved to the cloud is pleased with the positive results. California’s cloud-based plain language guide was able to handle over [200,000 concurrent visitors with no downtime](https://www.navapbc.com/case-studies/rapidly-building-unemployment-services-during-the-pandemic.html), and Virginia experienced significant gains from moving to the cloud.
 
-To solve problems in unemployment, newer technology needs to be attached to claimant success metrics.
+To solve problems in unemployment, newer technology needs to be attached to claimant success metrics, such as [handling at least 35 requests a second](https://adhoc.team/2021/06/11/transforming-unemployment-insurance-systems/).
 
 <hr>
 ### Go to the next section: [Recommended Way Forward](https://improveunemployment.com/Way_Forward/)

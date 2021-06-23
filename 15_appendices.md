@@ -17,7 +17,7 @@ This work was supported by the Families and Workers Fund, and the team is especi
 *   Dana Chisnell, in her personal capacity
 *   Arnab Datta, Employ America
 *   Raju Gadiraju, Chief Information Officer, North Carolina Department of Commerce Division of Employment Security
-*   David Guarino, Office of Digital Innovation, State of California
+*   Dave Guarino, Office of Digital Innovation, State of California
 *   Waldo Jaquith, Beeck Center for Social Impact + Innovation
 *   Peter Karman, U.S. Digital Response
 *   Abby McQuade, Senior Advisor and Chief Innovation Officer, Rhode Island Department of Labor & Training

@@ -8,7 +8,7 @@ toc: true
 intro_image: /assets/images/executive_summary.png
 ---
 
-## About the playbook
+## A Playbook for Improving Unemployment Insurance Delivery
 
 This playbook presents a bold yet achievable North Star vision for what unemployment benefits can be, and the concrete steps needed to get there — concrete steps that, in almost every case, individual states have already tested. 
 
@@ -16,7 +16,7 @@ To create the vision and map the steps, we collaborated with more than 50 advoca
 
 
 ### This is a playbook of what’s working to deliver unemployment benefits to those who need them. 
-We hope that this living playbook will inspire and drive further improvements, building on the successes of individual states. New America, supported by the Families and Workers Fund, will continue to update these pages as states develop more solutions. We invite you to submit your suggestions and stories here.
+We hope that this living playbook will inspire and drive further improvements, building on the successes of individual states. New America, supported by the Families and Workers Fund, will continue to update these pages as states develop more solutions. We invite you to submit your suggestions and stories [here](https://github.com/Bloom-Works/improveunemployment/issues/new).
 
 
 ### Yes, a lot has gone wrong in benefits delivery.
@@ -67,8 +67,8 @@ In summary, our recommended approach for improving unemployment is:
 *   Conduct a rapid ecosystem assessment to [organize states into cohort models](https://improveunemployment.com/way_forward/#cohort-identification)  for building and deploying solutions towards these success criteria.
 *   [Deploy strike teams](https://improveunemployment.com/way_forward/#strike-teams) to perform deeper state-specific work that needs to be consistent nationally, like defining and measuring backlogs and fraud rates.
 *   [Build state integrated command centers](https://improveunemployment.com/way_forward/#integrated-command-center) to respond to incidents, working down [fraud](https://improveunemployment.com/fraud/) and [backlogs](https://improveunemployment.com/processing/#backlogs).
-*   Improve the relationship between U.S. DOL and states through collaborative projects like demonstration pilots and shared services like central [plain language](https://improveunemployment.com/experience/#plain-language) and [transadaptation](https://improveunemployment.com/experience/#transadaptation) teams from which states gain value.
-*   Deploy philanthropic support towards specific demonstration projects in service of specific success metrics, as well as a [state working groups](https://improveunemployment.com/way_forward/#working-groups) to advance best practices and share fixes.
+*   Improve the [relationship between U.S. DOL and states](https://improveunemployment.com/way_forward/#state--us-dol-relationship) through collaborative projects like demonstration pilots and shared services like central [plain language](https://improveunemployment.com/experience/#plain-language) and [transadaptation](https://improveunemployment.com/experience/#transadaptation) teams from which states gain value.
+*   Deploy [philanthropic support](https://improveunemployment.com/way_forward/#opportunities-for-philanthropy) towards specific demonstration projects in service of specific success metrics, as well as a [state working groups](https://improveunemployment.com/way_forward/#working-groups) to advance best practices and share fixes.
 <hr>
 ### Go to the next section: [North Star](https://improveunemployment.com/NorthStar/)
 <hr>
