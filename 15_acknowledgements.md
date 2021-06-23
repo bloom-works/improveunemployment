@@ -8,8 +8,6 @@ toc: false
 intro_image: /assets/images/acknowledgements.png
 ---
 
-
-## Acknowledgements
 This work was supported by the Families and Workers Fund, and the team is especially grateful for the support and partnership of its Executive Director Rachel Korberg and Director of Operations Nefeli Mourti.
 
 **Thank you to the following individuals and organizations for collaborating with us:**
