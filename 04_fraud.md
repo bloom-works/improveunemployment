@@ -192,7 +192,7 @@ In addition to being NIST IAL2/AAL2 compliant, U.S. DOL could require[^17] that 
 *   Have the ability to confirm identities same-day (whether automated or with trained humans), enabling a North Star goal of [same-day payments](https://improveunemployment.com/payments/#timeliness).
 *   [Accept all names](https://docs.google.com/document/d/1c1S9FqZ-cSvf33gXd_QN9JTFlHMo3yb8zDMMnoyLszw/edit)
 *   Enable federated trusted identities — if you already completed compliant identity proofing with another government agency (e.g., the DMV), this allows you to re-use that identity to apply for unemployment instead of having to repeat the process (Bonus: This is also a cost savings for the government, which now only has to pay for identity proofing once per person, instead of once per person per benefit line.)
-*   Retain the _fact_ that an individual’s identity was verified, but destroy the electronic copies of associated identity documents once used, for increased privacy protection
+*   Retain the _fact_ that an individual’s identity was verified, and follow [NARA document retention guidelines](https://www.archives.gov/about/records-schedule) for retaining copies of the underlying identity documents.
 
 
 #### Incentivize identity verification vendors to help real people.
