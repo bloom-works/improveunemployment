@@ -250,9 +250,9 @@ Some examples:<br>
 **How to protect this escape hatch:** Trusted referee can thwart automated scaled attacks.<br>
 
 **Obstacle:** We require IAL2/AAL2 identity verification to create an account (before you can access the unemployment application).<br>
-**Who this harms:** Claimants who legitimately cannot pass identity verification for valid reasons.<br>
-**Escape hatch:** Trusted referee.<br>
-**How to protect this escape hatch:** Trusted referee can thwart automated scaled attacks.<br>
+**Who this harms:** Claimants who legitimately cannot pass identity verification for valid reasons, such as an expired license.<br>
+**Escape hatch:** Trusted referee or in-person identity verification. Per [REAL ID requirements](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/how-do-i-get-a-real-id/real-id-checklist/), a claimant can prove their identity with just their birth certificate in person (but not remotely, given how easily it could be compromised at scale).<br>
+**How to protect this escape hatch:** Trusted referee and in-person identity verification can thwart automated scaled attacks.<br>
 
 **Obstacle:** We block claims associated with any mailing address associated with a known fraudulent claim.<br>
 **Who this harms:** Claimants living in shelters or unhoused claimants using general delivery; claimants with roommates; claimants in boarding houses.<br>

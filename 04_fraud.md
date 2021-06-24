@@ -187,7 +187,7 @@ It's particularly important that state agencies stop using social security numbe
 ### Take steps to prevent identity verification standards from harming historically underserved communities.
 In addition to being NIST IAL2/AAL2 compliant, U.S. DOL could require[^17] that identity verification solutions for unemployment:
 *   Have a pathway for the unbanked and underbanked, who can’t pass identity “quizzes” that rely on credit histories
-*   Have in-person options for verifying identity, such as UPS stores (currently used for verifying foster parent identities), VA hospitals (currently used for in-person identity proofing for access to VA benefits).[^18][^19]
+*   Have in-person options for verifying identity, such as UPS stores (currently used for verifying foster parent identities) or VA hospitals (currently used for in-person identity proofing for access to VA benefits). Per [REAL ID requirements](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/how-do-i-get-a-real-id/real-id-checklist/), in-person applicants without a valid ID (e.g. with an expired license) can use their birth certificate for identity verification. [^18][^19]
 *   Have an [escape hatch](https://improveunemployment.com/experience/#escape-hatches) to access a trained human[^20] (NIST calls them “trusted referees”),[^21] with a reasonable wait time, call back, or appointment scheduling feature. 
 *   Have the ability to confirm identities same-day (whether automated or with trained humans), enabling a North Star goal of [same-day payments](https://improveunemployment.com/payments/#timeliness).
 *   [Accept all names](https://docs.google.com/document/d/1c1S9FqZ-cSvf33gXd_QN9JTFlHMo3yb8zDMMnoyLszw/edit)
@@ -301,4 +301,3 @@ Of the states that have adopted federally-compliant identity verification during
 
 [^22]:
      [http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
-
