@@ -140,7 +140,7 @@ As we explain in the [identity verification section](https://improveunemployment
 
 
 
-## The way forward is fair, effective [identity verification](https://improveunemployment.com/fraud/#identity-verification)
+## The way forward is fair, effective [identity verification](https://improveunemployment.com/identity_verification/)
 Our recommended balance is to follow federal guidelines, but actively design for underserved populations,[^13] and then measure how effectively these groups are able to accurately pass identity verification. If issues are discovered, work to design solutions.
 
 ### We need an accurate way to measure the effectiveness of fraud prevention efforts. 
