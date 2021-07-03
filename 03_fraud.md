@@ -45,8 +45,8 @@ If an individual returned to work but lied to continue to collect unemployment, 
 
 ### The frequency and scale of identity theft has recently exploded.
 Since the pandemic, UI fraud has changed dramatically. It’s now:
-*   Enormous in volume
-*   Almost exclusively associated with PUA and not with “traditional” unemployment payments 
+*   [Enormous](https://boston.cbslocal.com/2020/11/23/unemployment-fraud-massachusetts-charlie-baker-benefits/) in volume
+*   Initially [associated mostly with PUA](https://www.axios.com/arizona-unemployment-fraud-01f926a3-9fc1-48c2-a4ae-c8af7169e3a4.html?deepdive=1) and not with “traditional” unemployment payments, although this has changed as criminals have become more familiar with how to exploit both kinds.
 *   Perpetrated by criminal actors conducting large-scale fraud, not individuals claiming an extra hundred dollars here and there
 
 And in contrast to benefits theft, states aren’t at all prepared to catch and stop it.
