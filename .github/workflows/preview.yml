@@ -16,7 +16,6 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
-        run: bundle install
       - name: Cache npm
         uses: actions/cache@v1
         with:
@@ -34,6 +33,7 @@ jobs:
       - name: Install
         run: |
           yarn install
+          bundle install
       - name: Build
         run: |
           yarn postcss:build
