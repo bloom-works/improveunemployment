@@ -33,7 +33,7 @@ jobs:
       - name: Install
         run: |
           yarn install
-          budnle install
+          bundle install
       - name: Build
         run: |
           yarn postcss:build
