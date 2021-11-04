@@ -37,7 +37,7 @@ jobs:
       - name: Build
         run: |
           yarn postcss:build
-          jekyll build
+          bundle exec jekyll build
       - name: Deploy
         if: success()
         run: |
