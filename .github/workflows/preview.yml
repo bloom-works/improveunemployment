@@ -41,7 +41,6 @@ jobs:
           jekyll build
       - name: Deploy
         if: success()
-      - name: Sync bucket
         run: |
           s3_website push
       - name: Set success deployment status
