@@ -2,7 +2,6 @@ name: Delete bucket after closing
 on:
   pull_request:
     types: [closed]
-  workflow_dispatch:
 jobs:
   teardown:
     runs-on: ubuntu-latest
