@@ -57,7 +57,7 @@ jobs:
         env:
           REPO: self
           BRANCH: data_build
-          FOLDER: build
+          FOLDER: ./
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Deploy
         run: bundle exec s3_website push
