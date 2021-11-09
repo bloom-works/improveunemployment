@@ -16,20 +16,17 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
-      - name: Cache npm
-        uses: actions/cache@v1
+      - name: Get yarn cache directory path
+        id: yarn-cache-dir-path
+        run: echo "::set-output name=dir::$(yarn cache dir)"
+      - name: Cache yarn
+        uses: actions/cache@v2
+        id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
         with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
-            ${{ runner.os }}-node-
-      - name: Cache gems
-        uses: actions/cache@v1
-        with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gem-
+            ${{ runner.os }}-yarn-
       - name: Set deployment status
         uses: pbrandone/create-status-action@master
         with:
@@ -48,14 +45,14 @@ jobs:
           java-version: '8'
       - name: Build
         if: success()
-        env:
-          JEKYLL_ENV: production
         run: |
           bundle config path vendor/bundle
           bundle install --jobs 4 --retry 3
           yarn postcss:build
           bundle exec jekyll build --verbose
-          bundle exec s3_website push
+      - name: Deploy
+        if: success()
+        run: bundle exec s3_website push
       - name: Set success deployment status
         if: success()
         uses: pbrandone/create-status-action@master
