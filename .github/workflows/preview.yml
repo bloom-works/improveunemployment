@@ -35,13 +35,17 @@ jobs:
           yarn install
           bundle install
       - name: Build
+        if: success()
         run: |
           yarn postcss:build
           bundle exec jekyll build
+      - name: Install Java
+        uses: actions/setup-java@v2
+        with:
+          distribution: 'temurin'
+          java-version: '8'
       - name: Deploy
-        if: success()
-        run: |
-          bundle exec s3_website push
+        run: bundle exec s3_website push
       - name: Set success deployment status
         if: success()
         uses: pbrandone/create-status-action@master
