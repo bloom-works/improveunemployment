@@ -41,6 +41,11 @@ jobs:
         run: |
           yarn install
           bundle install
+      - name: Install Java
+        uses: actions/setup-java@v2
+        with:
+          distribution: 'temurin'
+          java-version: '8'
       - name: Build
         if: success()
         run: |
@@ -48,22 +53,7 @@ jobs:
           bundle install --jobs 4 --retry 3
           yarn postcss:build
           bundle exec jekyll build
-        env:
-          JEKYLL_PAT: $
-      - name: Install Java
-        uses: actions/setup-java@v2
-        with:
-          distribution: 'temurin'
-          java-version: '8'
-      - name: Commit build to branch
-        uses: s0/git-publish-subdir-action@master
-        env:
-          REPO: self
-          BRANCH: data_build
-          FOLDER: ./
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Deploy
-        run: bundle exec s3_website push
+          bundle exec s3_website push
       - name: Set success deployment status
         if: success()
         uses: pbrandone/create-status-action@master
