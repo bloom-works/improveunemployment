@@ -26,7 +26,7 @@ jobs:
       - name: Cache gems
         uses: actions/cache@v1
         with:
-          path: ./bundle
+          path: vendor/bundle
           key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gem-
@@ -44,7 +44,6 @@ jobs:
       - name: Build
         if: success()
         run: |
-          bundle config path ./bundle
           bundle install --jobs 4 --retry 3
           yarn postcss:build
           bundle exec jekyll build
