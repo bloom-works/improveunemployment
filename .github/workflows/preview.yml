@@ -48,6 +48,8 @@ jobs:
           java-version: '8'
       - name: Build
         if: success()
+        env:
+          JEKYLL_ENV: production
         run: |
           bundle config path vendor/bundle
           bundle install --jobs 4 --retry 3
