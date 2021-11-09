@@ -26,7 +26,7 @@ jobs:
       - name: Cache gems
         uses: actions/cache@v1
         with:
-          path: vendor/bundle
+          path: ./bundle
           key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gem-
@@ -44,7 +44,6 @@ jobs:
       - name: Build
         if: success()
         run: |
-          bundle config path vendor/bundle
           bundle install --jobs 4 --retry 3
           yarn postcss:build
           bundle exec jekyll build
@@ -53,6 +52,13 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: '8'
+      - name: Deploy
+        uses: s0/git-publish-subdir-action@master
+        env:
+          REPO: self
+          BRANCH: data_build
+          FOLDER: build
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Deploy
         run: bundle exec s3_website push
       - name: Set success deployment status
