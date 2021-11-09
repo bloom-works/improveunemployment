@@ -23,6 +23,13 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
+      - name: Cache gems
+        uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gem-
       - name: Set deployment status
         uses: pbrandone/create-status-action@master
         with:
@@ -37,6 +44,8 @@ jobs:
       - name: Build
         if: success()
         run: |
+          bundle config path vendor/bundle
+          bundle install --jobs 4 --retry 3
           yarn postcss:build
           bundle exec jekyll build
       - name: Install Java
