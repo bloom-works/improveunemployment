@@ -44,6 +44,7 @@ jobs:
       - name: Build
         if: success()
         run: |
+          bundle config path ./bundle
           bundle install --jobs 4 --retry 3
           yarn postcss:build
           bundle exec jekyll build
@@ -52,7 +53,7 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: '8'
-      - name: Deploy
+      - name: Commit build to branch
         uses: s0/git-publish-subdir-action@master
         env:
           REPO: self
