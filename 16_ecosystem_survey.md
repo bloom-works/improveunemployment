@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ecosystem Survey
-permalink: /Ecosystem/
+permalink: /ecosystem/
 nav: true
 weight: 1
 toc: false

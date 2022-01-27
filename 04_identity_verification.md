@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Identity Verification
-permalink: /Identity_Verification/
+permalink: /identity_verification/
 nav: true
 weight: 1
 toc: true

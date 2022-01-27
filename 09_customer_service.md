@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Customer Service
-permalink: /Customer/
+permalink: /customer/
 nav: true
 weight: 1
 toc: true

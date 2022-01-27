@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wage Verification
-permalink: /Wage/
+permalink: /wage/
 nav: true
 weight: 1
 toc: true

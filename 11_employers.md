@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Employers
-permalink: /Employers/
+permalink: /employers/
 nav: true
 weight: 1
 toc: true

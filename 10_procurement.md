@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Procurement
-permalink: /Procurement/
+permalink: /procurement/
 nav: true
 weight: 1
 toc: true

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acknowledgements
-permalink: /Acknowledgements/
+permalink: /acknowledgements/
 nav: true
 weight: 1
 toc: false

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: North Star
-permalink: /NorthStar/
+permalink: /northstar/
 nav: true
 weight: 1
 toc: false

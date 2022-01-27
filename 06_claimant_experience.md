@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Claimant Experience
-permalink: /Experience/
+permalink: /experience/
 nav: true
 weight: 1
 toc: true

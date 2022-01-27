@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fraud
-permalink: /Fraud/
+permalink: /fraud/
 nav: true
 weight: 1
 toc: true

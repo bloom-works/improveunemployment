@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recommended Way Forward
-permalink: /Way_Forward/
+permalink: /way_forward/
 nav: true
 weight: 1
 toc: true

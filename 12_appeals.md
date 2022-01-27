@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Appeals
-permalink: /Appeals/
+permalink: /appeals/
 nav: true
 weight: 1
 toc: true

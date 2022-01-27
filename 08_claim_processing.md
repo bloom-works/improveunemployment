@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Claim Processing
-permalink: /Processing/
+permalink: /processing/
 nav: true
 weight: 1
 toc: true

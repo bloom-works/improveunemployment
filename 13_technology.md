@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Technology
-permalink: /Tech/
+permalink: /tech/
 nav: true
 weight: 1
 toc: true

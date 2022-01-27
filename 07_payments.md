@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Payments
-permalink: /Payments/
+permalink: /payments/
 nav: true
 weight: 1
 toc: true
