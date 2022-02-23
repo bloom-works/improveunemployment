@@ -60,17 +60,17 @@ We also spend time on specific technology best practices, like website instrumen
 
 ### Here are the steps towards the future we want.
 In summary, our recommended approach for improving unemployment is:
-*   [Define success](https://improveunemployment.com/way_forward/#defining-success) in terms of claimant-centric _outcomes_, like percentages of claimants receiving unemployment benefits the same day they apply–not “how” measures like number of hours spent or lines of code written.
+*   [Define success](/way_forward/#defining-success) in terms of claimant-centric _outcomes_, like percentages of claimants receiving unemployment benefits the same day they apply–not “how” measures like number of hours spent or lines of code written.
 *   Consider policy, practice, and technology together[^4] holistically in developing hypotheses for solutions.  Good implementation can't fix poorly constructed policy.
-*   [Launch demonstration projects](https://improveunemployment.com/way_forward/#demonstration-projects--pilots) with interested states designed to iteratively build, test, and further improve upon ways to achieve these goals.
-*   Promote successful demonstration projects to [develop shared services when they make sense](https://improveunemployment.com/way_forward/#shared-services).
-*   Conduct a rapid ecosystem assessment to [organize states into cohort models](https://improveunemployment.com/way_forward/#cohort-identification)  for building and deploying solutions towards these success criteria.
-*   [Deploy strike teams](https://improveunemployment.com/way_forward/#strike-teams) to perform deeper state-specific work that needs to be consistent nationally, like defining and measuring backlogs and fraud rates.
-*   [Build state integrated command centers](https://improveunemployment.com/way_forward/#integrated-command-center) to respond to incidents, working down [fraud](https://improveunemployment.com/fraud/) and [backlogs](https://improveunemployment.com/processing/#backlogs).
-*   Improve the [relationship between U.S. DOL and states](https://improveunemployment.com/way_forward/#state--us-dol-relationship) through collaborative projects like demonstration pilots and shared services like central [plain language](https://improveunemployment.com/experience/#plain-language) and [transadaptation](https://improveunemployment.com/experience/#transadaptation) teams from which states gain value.
-*   Deploy [philanthropic support](https://improveunemployment.com/way_forward/#opportunities-for-philanthropy) towards specific demonstration projects in service of specific success metrics, as well as a [state working groups](https://improveunemployment.com/way_forward/#working-groups) to advance best practices and share fixes.
+*   [Launch demonstration projects](/way_forward/#demonstration-projects--pilots) with interested states designed to iteratively build, test, and further improve upon ways to achieve these goals.
+*   Promote successful demonstration projects to [develop shared services when they make sense](/way_forward/#shared-services).
+*   Conduct a rapid ecosystem assessment to [organize states into cohort models](/way_forward/#cohort-identification)  for building and deploying solutions towards these success criteria.
+*   [Deploy strike teams](/way_forward/#strike-teams) to perform deeper state-specific work that needs to be consistent nationally, like defining and measuring backlogs and fraud rates.
+*   [Build state integrated command centers](/way_forward/#integrated-command-center) to respond to incidents, working down [fraud](/fraud/) and [backlogs](/processing/#backlogs).
+*   Improve the [relationship between U.S. DOL and states](/way_forward/#state--us-dol-relationship) through collaborative projects like demonstration pilots and shared services like central [plain language](/experience/#plain-language) and [transadaptation](/experience/#transadaptation) teams from which states gain value.
+*   Deploy [philanthropic support](/way_forward/#opportunities-for-philanthropy) towards specific demonstration projects in service of specific success metrics, as well as a [state working groups](/way_forward/#working-groups) to advance best practices and share fixes.
 <hr>
-### Go to the next section: [North Star](https://improveunemployment.com/NorthStar/)
+### Go to the next section: [North Star](/northstar/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->

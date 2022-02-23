@@ -222,7 +222,7 @@ As far back as 2017, New Jersey recognized determinations as an opportunity area
 We recommend that every state evaluate its determinations interview process for opportunities where automation, such as a situation-specific survey, can replace the highly labor-intensive and non-scalable manual interview process.
 
 <hr>
-### Go to the next section: [Customer Service](https://improveunemployment.com/Customer/)
+### Go to the next section: [Customer Service](/customer/)
 <hr>
 
 

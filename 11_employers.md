@@ -16,7 +16,7 @@ A general recommendation for U.S. DOL is to provide an [employer roadmap](https:
 Twenty-eight states have a Short-Time Compensation (STC) program, better known as “Work Share.” In Work Share, employers _reduce_ an employees’ hours in lieu of laying them off. In qualifying situations, unemployment benefits help make up the difference. 
 
 ### Story from the field
-[California](https://www.govops.ca.gov/wp-content/uploads/sites/11/2020/09/Assessment.pdf) leveraged the [strangler pattern](https://improveunemployment.com/tech/#strangle-the-mainframe) to build a new Work Share interface for employers and claims processors using Salesforce. By making the interface easier to use than the previous paper-based forms and mainframe-based processing system, California successfully encouraged more employers to use the Work Share program. This increased use is helping to keep more people employed in their original jobs.
+[California](https://www.govops.ca.gov/wp-content/uploads/sites/11/2020/09/Assessment.pdf) leveraged the [strangler pattern](/tech/#strangle-the-mainframe) to build a new Work Share interface for employers and claims processors using Salesforce. By making the interface easier to use than the previous paper-based forms and mainframe-based processing system, California successfully encouraged more employers to use the Work Share program. This increased use is helping to keep more people employed in their original jobs.
 
  
 
@@ -43,12 +43,12 @@ According to its strike team,[^108] Nevada also explored “_options to ‘pre-v
 A [proposed unemployment modernization bill](https://fcw.com/articles/2021/02/10/wyden-bill-modernize-ui-tech.aspx) includes language for employer-filed claims.[^109]
 
 ### Recommendations for the federal government
-Employer-filed claims should be the subject of a [demonstration project](https://improveunemployment.com/way_forward/#demonstration-projects--pilots) to determine how to strike the right balance between automation, efficiency, and positive impacts on claimants.
+Employer-filed claims should be the subject of a [demonstration project](/way_forward/#demonstration-projects--pilots) to determine how to strike the right balance between automation, efficiency, and positive impacts on claimants.
 
 
 
 ## Employer Verification
-One source of friction and delay in the unemployment compensation process is verifying an individual’s former employment with their former employer, including confirming that both the employer and the individual report the same [reason for separation](https://improveunemployment.com/experience/#reason-for-separation).
+One source of friction and delay in the unemployment compensation process is verifying an individual’s former employment with their former employer, including confirming that both the employer and the individual report the same [reason for separation](/experience/#reason-for-separation).
 
 When this process must be completed by mail, employers have struggled to meet the 7-day turnaround deadline. At the same time, even 7 days is a significant wait period for the claimant. Preferably, all states would have a [digital verification system](https://usdr.gitbook.io/unemployment-insurance-modernization/additional-deep-dives/employer-experience-with-ui/opportunities-of-the-digital-ui-agency-employer-interactions-user-interviews/key-takeaways) that _proactively_ confirms employment and wages, so that confirming separation reasons can be done quickly and easily online. States with income tax are generally able to do this through their existing state tax systems.
 
@@ -59,7 +59,7 @@ The National Association of State Workforce Agencies (NASWA) runs the State Info
 Almost all states use SIDES to some extent, but in 2017 the Office of the Inspector General (OIG) identified missed opportunities to maximize utilization of the system.[^111] Fewer than 20% of employers were signed up to use it, and of those, they didn’t respond to 41% of the 4.2 million requests. Employers cited “technical challenges” when the OIG interviewed them.
 
 ### Recommendation for a demonstration project
-We recommend one or more [demonstration projects](https://improveunemployment.com/way_forward/#demonstration-projects--pilots) related to automating or speeding up employer verification via digital tools,[^112] initially focused on what user experience and technology improvements[^113] may be needed to increase adoption of SIDES or to augment its functionality.
+We recommend one or more [demonstration projects](/way_forward/#demonstration-projects--pilots) related to automating or speeding up employer verification via digital tools,[^112] initially focused on what user experience and technology improvements[^113] may be needed to increase adoption of SIDES or to augment its functionality.
 
 
 
@@ -81,10 +81,10 @@ Short of this, we recommend at least using a dedicated mailing address for appea
 ### Volume and types of appeals are an important early indicator.
 We recommend states keep a close watch on their appeals rates for any potential impact from other, upstream changes. Closely tracking the rate of appeals relative to claim volume is a critical early indicator that your attempts at thwarting fraud are diverting real claimants.
 
-We also recommend that states review data on appeals rates — both raw volume and trends — States should include data on appeals rates, both raw volume and trends, in theirits integrated command centers[integrated command center](https://improveunemployment.com/way_forward/#integrated-command-center).
+We also recommend that states review data on appeals rates — both raw volume and trends — States should include data on appeals rates, both raw volume and trends, in theirits integrated command centers[integrated command center](/way_forward/#integrated-command-center).
 
 <hr>
-### Go to the next section: [Appeals](https://improveunemployment.com/Appeals/)
+### Go to the next section: [Appeals](/appeals/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->

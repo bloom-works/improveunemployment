@@ -101,7 +101,7 @@ A few words of guidance for usability testing:[^42]
 *   Current employees and claims processors aren’t proxies for real users, because they know too much about how the system works.
 *   Test the complete, end to end experience with a variety of possible claimants.[^43],[^44] 
 *   Make sure to include participants who represent historically underserved groups, including participants with disabilities.
-*   Use a [staging environment that mirrors production](https://improveunemployment.com/tech/#testing-environments) to enable robust, end to end usability testing without having to use production data or resources.
+*   Use a [staging environment that mirrors production](/tech/#testing-environments) to enable robust, end to end usability testing without having to use production data or resources.
 
 <div class="callout callout--info">
 	<div class="callout-content">
@@ -114,7 +114,7 @@ A few words of guidance for usability testing:[^42]
 ### Provide more than one way to apply.
 Every state must have an easy-to-use digital interface for applying for unemployment. While not everyone _can_ use digital, if **everyone** is forced to call in and speak to a human to finish filing their claim, the people with limited or no digital access will have almost no chance of successfully getting through and filing. An effective digital experience frees up staff to help those without digital access (or with complex cases).
 
-Some states, like Wisconsin, Florida,[^45] and New York, have eliminated paper applications, requiring either digital or phone applications. A [demonstration project](https://improveunemployment.com/way_forward/#demonstration-projects--pilots) around an optimized applicant experience should study application methods and determine whether a high-functioning, file-by-phone interface can replace paper.
+Some states, like Wisconsin, Florida,[^45] and New York, have eliminated paper applications, requiring either digital or phone applications. A [demonstration project](/way_forward/#demonstration-projects--pilots) around an optimized applicant experience should study application methods and determine whether a high-functioning, file-by-phone interface can replace paper.
 
 ### Communicate, communicate, communicate.
 The Center for Law and Social Policy (CLASP) recommends “expanding the depth and breadth of communication by a factor of 10,”[^46] citing that agencies regularly underestimate the amount of information and communication that claimants need. Proactive, accurate communication can stave off stress on behalf of the applicant, errors, and even unnecessary follow-up phone calls.[^47]
@@ -147,7 +147,7 @@ These include:
 
 > “Agencies should iterate toward a complete status-checking experience — they shouldn’t try to do it all at once. E.g., it’s impactful to show someone their initial application status even if you can’t yet show weekly certification status or vice versa, or to show that a weekly certification was deemed eligible even if you can’t yet show how much/whether they have been paid.”[^50] _- USDR_
 
-Multiple states successfully used the [strangler pattern](https://improveunemployment.com/tech/#strangle-the-mainframe) to launch claim status trackers in weeks alongside (not within) the mainframe. Claim status updates don’t have to be real-time; syncing status once a day (with clear messaging about when the update happens, so claimants don’t refresh the page in frustration all day) with the mainframe can be plenty adequate.
+Multiple states successfully used the [strangler pattern](/tech/#strangle-the-mainframe) to launch claim status trackers in weeks alongside (not within) the mainframe. Claim status updates don’t have to be real-time; syncing status once a day (with clear messaging about when the update happens, so claimants don’t refresh the page in frustration all day) with the mainframe can be plenty adequate.
 
 
 
@@ -175,7 +175,7 @@ At a minimum, claimants should be able to recertify by:
 
 
 ### Old technology isn’t a barrier to providing automated recertification.
-Whatever your current technology is, the National WIC Association found[^53] that existing technologies, however old, are not a barrier to developing automated recertification methods. Many states have used the [strangler pattern](https://improveunemployment.com/tech/#strangle-the-mainframe) to quickly build new recertification tools for claimants that sync to the back-end system at a regular cadence.
+Whatever your current technology is, the National WIC Association found[^53] that existing technologies, however old, are not a barrier to developing automated recertification methods. Many states have used the [strangler pattern](/tech/#strangle-the-mainframe) to quickly build new recertification tools for claimants that sync to the back-end system at a regular cadence.
 
 For example, Rhode Island’s recertification process was initially connected _directly_ to its back-end As/400 system, so only 74 people at a time could use it. However, up to 200,000 Rhode Islanders could be recertifying at any given time. Within 10 days, they were able to work with Amazon Web Services Connect to build a scalable automated recertification system. As an added bonus, this new system gave them data insights into the times and volumes that people were recertifying.
 
@@ -183,7 +183,7 @@ For example, Rhode Island’s recertification process was initially connected _d
 ### Make sure that claimants can understand the questions you ask.
 USDR research found that many claimants were confused by the questions on the recertification form.[^54] Additionally, in support of a more claimant-friendly, plain language process, many people we spoke with suggested renaming “recertification” to a simpler term.
 
-We encourage states to [prioritize using clear, plain language](https://improveunemployment.com/experience/#plain-language) for all communications..
+We encourage states to [prioritize using clear, plain language](/experience/#plain-language) for all communications..
 
 
 ### Send reminders to recertify.
@@ -208,7 +208,7 @@ Rhode Island is addressing this issue by collecting the claimant’s real name i
 ### Revisit how you’re blocking foreign IP addresses.
 Many states we spoke with reported blocking claimants from all foreign IP addresses except for Canada. When prompted to explain why they didn’t also allow claims from Mexico, they didn’t have answers. Either block both, or unblock both. 
 
-Also, make sure you have an [escape hatch](https://improveunemployment.com/experience/#escape-hatches) for claimants who are eligible for UI but who are, for various reasons, currently outside of the United States.
+Also, make sure you have an [escape hatch](/experience/#escape-hatches) for claimants who are eligible for UI but who are, for various reasons, currently outside of the United States.
 
 
 ### Don’t block claimants just for frequently changing their information.
@@ -223,7 +223,7 @@ Blocking shared addresses, phone numbers, and bank accounts doesn’t consider c
 ### Use available data to measure equitable access to benefits.
 Many states reported that they weren’t approved to ask demographic questions like race and ethnicity in their unemployment benefit applications, so they couldn’t track outcome measures. Rhode Island found a clever workaround to this by starting its unemployment application with the work search profile, which _does_ have demographic information. This allowed Rhode Island to look for disparities from the very start. 
 
-As you identify disparities, you can use an [integrated command center model](https://improveunemployment.com/way_forward/#integrated-command-center) to conduct a root cause analysis and prioritize equitable outcomes.
+As you identify disparities, you can use an [integrated command center model](/way_forward/#integrated-command-center) to conduct a root cause analysis and prioritize equitable outcomes.
 
 According to a report by the National Employment Law Project (NELP):
 
@@ -349,7 +349,7 @@ U.S. DOL’s UIPL 02-16[^65] requires states to have accessible claimant experie
 
 
 ## Mobile Access
-States with [instrumentation](https://improveunemployment.com/tech/#website-instrumentation) have found that the _majority_ of claimants are accessing unemployment benefits from mobile devices. Many individuals with limited or no computer access still have mobile smartphones, and need to be able to complete all unemployment-related self-service tasks with it.
+States with [instrumentation](/tech/#website-instrumentation) have found that the _majority_ of claimants are accessing unemployment benefits from mobile devices. Many individuals with limited or no computer access still have mobile smartphones, and need to be able to complete all unemployment-related self-service tasks with it.
 
 >“More people have mobile phones than desktop or laptop computers, and public access to computers has vanished in an era of social distancing. Low-wage workers and workers of color are particularly likely to rely on their phones for Internet access. While more than 80 percent of white adults report owning a desktop or laptop, fewer than 60 percent of Black and Latinx adults do. States must also allow workers and employers to email documents or upload them from their phones.”[^66] _— The Century Foundation_
 
@@ -417,12 +417,12 @@ For example, one gentleman declined to take an _extra_ shift at work, and his bo
 
 
 ## Recommendations for the federal government
-Developing a single, easy-to-understand list of separation reasons would be an ideal [demonstration project](https://improveunemployment.com/way_forward/#demonstration-projects--pilots). User researchers and plain language content creators could work together with U.S. DOL and at least one state to develop a new taxonomy for separation (perhaps with an associated glossary), mapped clearly to policy. Then all states could adopt it after U.S. DOL approves it.
+Developing a single, easy-to-understand list of separation reasons would be an ideal [demonstration project](/way_forward/#demonstration-projects--pilots). User researchers and plain language content creators could work together with U.S. DOL and at least one state to develop a new taxonomy for separation (perhaps with an associated glossary), mapped clearly to policy. Then all states could adopt it after U.S. DOL approves it.
 
 From a policy perspective, there’s also an open window for increased consistency. [NELP recommends](https://www.nelp.org/publication/unemployment-pandemic-addressing-americas-job-crisis/) that “[g]ood cause to quit should be uniform across states, so workers fleeing domestic violence, following a spouse whose job has moved, or whose work jeopardizes their health and safety should be able to resign and receive UI.”
 
 <hr>
-### Go to the next section: [Payments](https://improveunemployment.com/Payments/)
+### Go to the next section: [Payments](/payments/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->
