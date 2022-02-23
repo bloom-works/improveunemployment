@@ -133,14 +133,14 @@ Once we stop the firehose of identity theft, we can then measure the next highes
 While this is addressed in NIST guidelines already, we want to particularly call out how laughably ineffective it is to use Social Security Numbers for identity verification. They have all been stolen–multiple times. The criminals have them in well-organized spreadsheets. They are not private information any longer, and to continue to treat them as such complicates matters. Any state using social security numbers as a means of identity verification should stop, immediately.[^12] 
 
 ### Stricter identity verification doesn’t need to prevent real claimants from getting through. 
-As we explain in the [identity verification section](https://improveunemployment.com/fraud/#identity-verification), federal guidelines provide significant flexibility for serving claimants who: 
+As we explain in the [identity verification section](/fraud/#identity-verification), federal guidelines provide significant flexibility for serving claimants who: 
 *   Are unbanked or underbanked
 *   Lack digital access
 *   Can’t pass automated identity verification steps for legitimate reasons and require a higher level of service 
 
 
 
-## The way forward is fair, effective [identity verification](https://improveunemployment.com/identity_verification/)
+## The way forward is fair, effective [identity verification](/identity_verification/)
 Our recommended balance is to follow federal guidelines, but actively design for underserved populations,[^13] and then measure how effectively these groups are able to accurately pass identity verification. If issues are discovered, work to design solutions.
 
 ### We need an accurate way to measure the effectiveness of fraud prevention efforts. 
@@ -158,7 +158,7 @@ The variables contributing to a risk score must:
 ### Demonstration projects can help states refine national tools for fighting UI fraud. 
 The National Association of State Workforce Agencies (NASWA) operates the Integrity Data Hub[^14] on behalf of the U.S. Department of Labor. NASWA operates multiple mandatory services within the Integrity Data Hub that likely prevent some fraud, such as the National Directory of New Hires Cross-Match and the Quarterly Records Cross-Match. As of this writing, they are credited with preventing $243 million in improper payments. But current estimates are that more than $400 _billion_ in fraudulent claims were paid out.[^15]
 
-To better understand existing fraud-prevention tools, we recommend state [demonstration projects](https://improveunemployment.com/way_forward/#demonstration-projects--pilots). These projects would determine:
+To better understand existing fraud-prevention tools, we recommend state [demonstration projects](/way_forward/#demonstration-projects--pilots). These projects would determine:
 *   How effective existing NASWA tools are, and where they can be replaced or improved to deliver improved outcomes
 *   Benchmark measures for determining where and how these tools impact fraud
 *   Ensure that they aren’t negatively impacting benefits delivery to real claimants
@@ -173,7 +173,7 @@ If we don’t put this sort of planning into the design of future benefits, the 
 
 
 <hr>
-### Go to the next section: [Identity Verification](https://improveunemployment.com/identity_verification/)
+### Go to the next section: [Identity Verification](/identity_verification/)
 <hr>
 
 
