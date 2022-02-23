@@ -237,7 +237,7 @@ We recommend piloting the survey with 3 to 5 states before collecting additional
     *   No
 
 <hr>
-### Go to the next section: [Draft Strike Team Assessment Output](https://improveunemployment.com/Striketeam/)
+### Go to the next section: [Draft Strike Team Assessment Output](https://improveunemployment.com/striketeam/)
 <hr>
 
 

@@ -96,7 +96,7 @@ There are 2 main drawbacks to this:
 One proposal to address these issues would be for the U.S. DOL to pilot an online individual unemployment account, similar to online Social Security and Internal Revenue Service accounts. This would allow any individual to check their cross-state wages and correct inaccuracies _before_ ever applying for unemployment. The new use case for this wage data would uncover any underlying data issues, allowing the involved systems to resolve them outside of the chaos of a pandemic.
 
 <hr>
-### Go to the next section: [Claimant Experience](https://improveunemployment.com/Experience/)
+### Go to the next section: [Claimant Experience](https://improveunemployment.com/experience/)
 <hr>
 
 

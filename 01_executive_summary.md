@@ -70,7 +70,7 @@ In summary, our recommended approach for improving unemployment is:
 *   Improve the [relationship between U.S. DOL and states](https://improveunemployment.com/way_forward/#state--us-dol-relationship) through collaborative projects like demonstration pilots and shared services like central [plain language](https://improveunemployment.com/experience/#plain-language) and [transadaptation](https://improveunemployment.com/experience/#transadaptation) teams from which states gain value.
 *   Deploy [philanthropic support](https://improveunemployment.com/way_forward/#opportunities-for-philanthropy) towards specific demonstration projects in service of specific success metrics, as well as a [state working groups](https://improveunemployment.com/way_forward/#working-groups) to advance best practices and share fixes.
 <hr>
-### Go to the next section: [North Star](https://improveunemployment.com/NorthStar/)
+### Go to the next section: [North Star](https://improveunemployment.com/northstar/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->

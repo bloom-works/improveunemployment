@@ -422,7 +422,7 @@ Developing a single, easy-to-understand list of separation reasons would be an i
 From a policy perspective, there’s also an open window for increased consistency. [NELP recommends](https://www.nelp.org/publication/unemployment-pandemic-addressing-americas-job-crisis/) that “[g]ood cause to quit should be uniform across states, so workers fleeing domestic violence, following a spouse whose job has moved, or whose work jeopardizes their health and safety should be able to resign and receive UI.”
 
 <hr>
-### Go to the next section: [Payments](https://improveunemployment.com/Payments/)
+### Go to the next section: [Payments](https://improveunemployment.com/payments/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->

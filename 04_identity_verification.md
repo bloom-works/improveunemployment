@@ -53,7 +53,7 @@ Of the states that have adopted federally-compliant identity verification during
 </div>
 
 <hr>
-### Go to the next section: [Wage Verification](https://improveunemployment.com/Wage/)
+### Go to the next section: [Wage Verification](https://improveunemployment.com/wage/)
 <hr>
 
 

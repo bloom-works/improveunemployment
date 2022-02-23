@@ -173,7 +173,7 @@ If we don’t put this sort of planning into the design of future benefits, the 
 
 
 <hr>
-### Go to the next section: [Identity Verification](https://improveunemployment.com/Identity_Verification/)
+### Go to the next section: [Identity Verification](https://improveunemployment.com/identity_verification/)
 <hr>
 
 

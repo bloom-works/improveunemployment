@@ -44,7 +44,7 @@ This work was supported by the Families and Workers Fund, and the team is especi
 
 
 <hr>
-### Go to the next section: [Ecosystem Survey](https://improveunemployment.com/Ecosystem/)
+### Go to the next section: [Ecosystem Survey](https://improveunemployment.com/ecosystem/)
 <hr>
 
 

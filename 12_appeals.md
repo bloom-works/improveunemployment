@@ -26,7 +26,7 @@ We recommend states keep a close watch on their appeals rates for any potential 
 We also recommend that states review data on appeals rates — both raw volume and trends — in their [integrated command centers](https://improveunemployment.com/way_forward/#integrated-command-center).
 
 <hr>
-### Go to the next section: [Technology](https://improveunemployment.com/Tech/)
+### Go to the next section: [Technology](https://improveunemployment.com/tech/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->

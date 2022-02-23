@@ -150,7 +150,7 @@ Every state we spoke with that moved to the cloud is pleased with the positive r
 To solve problems in unemployment, newer technology needs to be attached to claimant success metrics, such as [handling at least 35 requests a second](https://adhoc.team/2021/06/11/transforming-unemployment-insurance-systems/).
 
 <hr>
-### Go to the next section: [Recommended Way Forward](https://improveunemployment.com/Way_Forward/)
+### Go to the next section: [Recommended Way Forward](https://improveunemployment.com/way_forward/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->
