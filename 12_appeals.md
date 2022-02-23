@@ -23,10 +23,10 @@ Short of this, we recommend at least using a dedicated mailing address for appea
 ### Volume and types of appeals are an important early indicator.
 We recommend states keep a close watch on their appeals rates for any potential impact from other, upstream changes. Closely tracking the rate of appeals relative to claim volume is a critical early indicator that your attempts at thwarting fraud are diverting real claimants.
 
-We also recommend that states review data on appeals rates — both raw volume and trends — in their [integrated command centers](/way_forward/#integrated-command-center).
+We also recommend that states review data on appeals rates — both raw volume and trends — in their [integrated command centers](https://improveunemployment.com/way_forward/#integrated-command-center).
 
 <hr>
-### Go to the next section: [Technology](/tech/)
+### Go to the next section: [Technology](https://improveunemployment.com/Tech/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->

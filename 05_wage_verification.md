@@ -56,9 +56,9 @@ We recommend that OPM develop a Web service (API) that provides the data states 
 ## W2 Employment
 States reported they were generally able to confirm in-state W2 wages on a quarterly basis through their existing tax systems, and that this process is running smoothly and largely automated.
 
-Many states expressed an interest in the IRS taking a role in wage verification, though there were some concerns that the information wouldn't be timely (since W2 employees only file taxes once per year). We recommend this for a [demonstration project](/way_forward/#demonstration-projects--pilots), including working with states to identify current gaps in W2 wage verification that a central IRS [shared service](/way_forward/#shared-services) could address, speed up, and/or further automate.
+Many states expressed an interest in the IRS taking a role in wage verification, though there were some concerns that the information wouldn't be timely (since W2 employees only file taxes once per year). We recommend this for a [demonstration project](https://improveunemployment.com/way_forward/#demonstration-projects--pilots), including working with states to identify current gaps in W2 wage verification that a central IRS [shared service](https://improveunemployment.com/way_forward/#shared-services) could address, speed up, and/or further automate.
 
-An IRS wage verification shared service demonstration project could be incorporated into the [central unemployment account demonstration project](/wage/#cross-state-wages).
+An IRS wage verification shared service demonstration project could be incorporated into the [central unemployment account demonstration project](https://improveunemployment.com/wage/#cross-state-wages).
 
 
 ## Gig Employment
@@ -73,10 +73,10 @@ Solutions like document uploaders help alleviate mail delivery wait times and pr
 #### There are some promising ideas.
 One promising pilot we heard in this space is with Steady,[^26] which has the technology to instantaneously verify income for gig workers. It does this by connecting to individual claimants’ bank accounts (even if they switch accounts frequently, which is common among gig workers) and automatically parsing historical deposits for self-employment income that matches the known patterns for gig employers. 
 
-Faking historical bank deposits going back for months would be significantly more difficult than forging documents, increasing protections against falsifying income records to conduct [benefits fraud](/fraud/).
+Faking historical bank deposits going back for months would be significantly more difficult than forging documents, increasing protections against falsifying income records to conduct [benefits fraud](https://improveunemployment.com/fraud/).
 
 ### Explore automated, accurate wage verification for non-W2 workers using a demonstration project.
-Automated, accurate wage verification for non-W2 workers should be a demonstration project. The goal should be maximally automating the wage verification process for people with various types of employment, while protecting against fraudulent activity. The pilot may want to incorporate the existing Steady pilots to explore the possibility of a central [shared service](/way_forward/#shared-services) for gig worker wage verification.
+Automated, accurate wage verification for non-W2 workers should be a demonstration project. The goal should be maximally automating the wage verification process for people with various types of employment, while protecting against fraudulent activity. The pilot may want to incorporate the existing Steady pilots to explore the possibility of a central [shared service](https://improveunemployment.com/way_forward/#shared-services) for gig worker wage verification.
 
 
 ## Cross-State Wages
@@ -90,13 +90,13 @@ States exchange data about a claimant’s out-of-state wages using the [InterSta
 
 There are 2 main drawbacks to this:
 *   There’s no way for individuals to proactively check their data in ICON. They have to file an unemployment claim, at which point a claims processor queries ICON for cross-state wages. 
-*   Claims from individuals with cross-state wages require some manual processing and can’t be fully automated. This limits any state’s ability to develop [elastic capacity](/processing/#elastic-capacity).
+*   Claims from individuals with cross-state wages require some manual processing and can’t be fully automated. This limits any state’s ability to develop [elastic capacity](https://improveunemployment.com/processing/#elastic-capacity).
 
 ### Recommendation for the federal government
 One proposal to address these issues would be for the U.S. DOL to pilot an online individual unemployment account, similar to online Social Security and Internal Revenue Service accounts. This would allow any individual to check their cross-state wages and correct inaccuracies _before_ ever applying for unemployment. The new use case for this wage data would uncover any underlying data issues, allowing the involved systems to resolve them outside of the chaos of a pandemic.
 
 <hr>
-### Go to the next section: [Claimant Experience](/experience/)
+### Go to the next section: [Claimant Experience](https://improveunemployment.com/Experience/)
 <hr>
 
 

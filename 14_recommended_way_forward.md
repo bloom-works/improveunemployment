@@ -11,7 +11,7 @@ intro_image: /assets/images/way_forward.png
 ## What We Can Learn from ARRA
 In the last recession, the American Recovery and Reinvestment Act (ARRA) established a $7 billion pool was established for states to modernize their unemployment systems. Applications for these funds were due in August 2011.[^133] States could use the funds to pay UI benefits directly, or to improve their unemployment services programs. 
 
-In 2009, states were granted a $500 million fund for unemployment “[modernization](/tech/#modernization).”[^134] These funds[^135] could be spent on administrative improvements, but they couldn't be used to pay benefits directly. Over 80% of states reported that they would invest these funds in technology improvements.[^136]. 
+In 2009, states were granted a $500 million fund for unemployment “[modernization](https://improveunemployment.com/tech/#modernization).”[^134] These funds[^135] could be spent on administrative improvements, but they couldn't be used to pay benefits directly. Over 80% of states reported that they would invest these funds in technology improvements.[^136]. 
 
 ![Summary Estimates of State Investments from the $500 Million Recovery Act Grant for UI Administration (data from 19 interview states)](/assets/images/image12.png)[^138]
 
@@ -20,7 +20,7 @@ In retrospect, these millions don’t do not appear to have meaningfully improve
 According to NASW, “Spending funds quickly and in a timely manner was also a challenge frequently cited” regarding modernization funds in the last recession pandemic.[^140]
 
 ### To do better this time, we propose success metrics and demonstration projects.
-How can we do it better this time around? Instead of attaching funds to process measures, like hours of training delivered or youth summer camps created, U.S. DOL can attach funds to [success metrics](/way_forward/#defining-success). It can fund [demonstration projects](/way_forward/#demonstration-projects--pilots) tightly coupled to goals, which in turn can develop the insight and collateral for other states to achieve those same (or better) goals.
+How can we do it better this time around? Instead of attaching funds to process measures, like hours of training delivered or youth summer camps created, U.S. DOL can attach funds to [success metrics](https://improveunemployment.com/way_forward/#defining-success). It can fund [demonstration projects](https://improveunemployment.com/way_forward/#demonstration-projects--pilots) tightly coupled to goals, which in turn can develop the insight and collateral for other states to achieve those same (or better) goals.
 
 
 
@@ -35,7 +35,7 @@ The success of efforts to improve unemployment benefits delivery can’t be meas
 ### Success metrics should emphasize service delivery, not fraud prevention.
 States must fight fraud. But reactionary measures in the moment, like blocking claimants who use the same address or who switch bank accounts frequently (measures that, in the end, don’t protect against organized crime efforts, either), hurt claimants without truly addressing fraud.
 
-Leaders need to decide if their goal is to deliver timely, adequate benefits payments to the unemployed, or to [continue to reward not paying people](https://www.newamerica.org/pit/reports/unpacking-inequities-unemployment-insurance/a-focus-on-fraud-over-accessibility-the-punitive-design-of-ui/) or avoiding “[fraud](/fraud/)” at the expense of delivering benefits. 
+Leaders need to decide if their goal is to deliver timely, adequate benefits payments to the unemployed, or to [continue to reward not paying people](https://www.newamerica.org/pit/reports/unpacking-inequities-unemployment-insurance/a-focus-on-fraud-over-accessibility-the-punitive-design-of-ui/) or avoiding “[fraud](https://improveunemployment.com/Fraud/)” at the expense of delivering benefits. 
 
 > “Part of this increase in erroneous denial has to do with the fact that systems have been over-calibrated to prevent overpayments at the expense of paying appropriate benefits.”[^142] _— National Employment Law Project_
 
@@ -93,8 +93,8 @@ Success metrics should drive behaviors we want, instead of explicitly defining t
 Requiring a service level agreement (SLA) of 99.9% effectively requires cloud, but it sets a much clearer expectation. This performance-based expectation avoids the unfortunate circumstance of moving an aged system into the cloud and still having 6 hours of downtime per day.
 
 Here are some other examples of putting the what before the how:
-*   In order to know a state’s application abandonment rate, they have to have [website instrumentation](/tech/#website-instrumentation). 
-*   In order to get same-day payments to a population that speaks 10 different languages, a state will need to develop effectively [transadapted](/experience/#transadaptation) materials.
+*   In order to know a state’s application abandonment rate, they have to have [website instrumentation](https://improveunemployment.com/tech/#website-instrumentation). 
+*   In order to get same-day payments to a population that speaks 10 different languages, a state will need to develop effectively [transadapted](https://improveunemployment.com/experience/#transadaptation) materials.
 *   To keep its recertification drop-off rate higher, a state has to proactively remind people to recertify.
 
 ### Consider up front how each metric will be monitored and reported. 
@@ -242,7 +242,7 @@ Possible demonstration pilots outlined in this report include:
 
 ## Cohort Identification
 
-When deciding which states to work with on [demonstration projects](/way_forward/#demonstration-projects--pilots), [in working groups](/way_forward/#working-groups), or in other contexts, it can be helpful to have a framework by which to group them into cohorts based on different topics and dimensions. Conducting an ecosystem survey can help identify some patterns and groupings.
+When deciding which states to work with on [demonstration projects](https://improveunemployment.com/way_forward/#demonstration-projects--pilots), [in working groups](https://improveunemployment.com/way_forward/#working-groups), or in other contexts, it can be helpful to have a framework by which to group them into cohorts based on different topics and dimensions. Conducting an ecosystem survey can help identify some patterns and groupings.
 
 ### A cohort isn’t inherently “good” or “bad.”
 
@@ -337,19 +337,19 @@ There are multiple types of shared services currently or potentially in play for
 ### Each category of shared services offers its own pros and potential cons.
 #### 1. Verifying information from a single primary source
 A shared service is the only real option for these: 
-*   [Veteran Verification API](/wage/#veterans)
-*   [Federal Civilian Service API](/wage/#federal-civilian-employees)
-*   [IRS Wage Verification pilot](/wage/#w2-employment)
+*   [Veteran Verification API](https://improveunemployment.com/wage/#veterans)
+*   [Federal Civilian Service API](https://improveunemployment.com/wage/#federal-civilian-employees)
+*   [IRS Wage Verification pilot](https://improveunemployment.com/wage/#w2-employment)
 
 #### 2. Sharing data across unemployment systems
 For the following shared services, possible bad outcomes can be balanced against success metrics, benchmark monitoring, and an escape clause for states if those benchmarks aren’t being met consistently.
-*   [Cross-state wage verification](/wage/#cross-state-wages) (ICON)
+*   [Cross-state wage verification](https://improveunemployment.com/wage/#cross-state-wages) (ICON)
 *   Cross-state fraud information (Integrity Data Hub)
 
 #### 3. Providing a central service that multiple states can use
 Here are a couple of examples of services that could be centralized:
-*   [Central, national unemployment account](/wage/#cross-state-wages)
-*   [Identity verification](/fraud/#identity-verification)
+*   [Central, national unemployment account](https://improveunemployment.com/wage/#cross-state-wages)
+*   [Identity verification](https://improveunemployment.com/fraud/#identity-verification)
 
 The benefits of centralizing a service to a single place can mean improved service and lower cost. But if that shared service is terrible, it also means that everyone is stuck with bad service. 
 
@@ -396,18 +396,18 @@ Here are some of the concrete opportunities we heard about in our interviews:
 *   Collaborating on UIPLs with states ahead of time, instead of surprising already-overwhelmed states with new requirements they may not be able to implement easily
 *   Collaborating on an approach to addressing [President Biden’s Executive Order on Advancing Racial Equity](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
 *   Awarding grants aligned to shared goals and incentives
-*   Providing shared services like a [plain language team](/experience/#plain-language), [cross-state wage verification account](/wage/#cross-state-wages), and [military](/wage/#veterans) and [federal employee](/wage/#federal-civilian-employees) wage verification capabilities
+*   Providing shared services like a [plain language team](https://improveunemployment.com/experience/#plain-language), [cross-state wage verification account](https://improveunemployment.com/wage/#cross-state-wages), and [military](https://improveunemployment.com/wage/#veterans) and [federal employee](https://improveunemployment.com/wage/#federal-civilian-employees) wage verification capabilities
 *   Shifting liability and responsibility for best practices for identifying and fighting fraud centrally, such that if a state adheres to the federal requirements, it won’t be held liable for subsequent fraudulent activity
 
 ## Opportunities for Philanthropy
 In addition to American Rescue Plan (ARP) funds, philanthropy could support the development of claimant-centric, effective unemployment benefits delivery by:
-*   Funding [demonstration projects](/way_forward/#demonstration-projects--pilots) with key states with whom they are aligned on the given mission
-*   Starting a [working group](/way_forward/#working-groups) cohort to rapidly develop solutions to thematic challenges at a regular cadence, alongside larger demonstration projects
+*   Funding [demonstration projects](https://improveunemployment.com/way_forward/#demonstration-projects--pilots) with key states with whom they are aligned on the given mission
+*   Starting a [working group](https://improveunemployment.com/way_forward/#working-groups) cohort to rapidly develop solutions to thematic challenges at a regular cadence, alongside larger demonstration projects
 *   Conducting a field blueprint to rapidly identify themes and patterns across states, to feed into cross-state solutions, identify partners for demonstration projects, and surface projects for the working group
 *   Funding an [Algorithmic Justice League audit](https://www.ajl.org/take-action#REQUEST) of identity verification vendors used in unemployment
 
 <hr>
-### Go to the next section: [Acknowledgements](/acknowledgements/)
+### Go to the next section: [Acknowledgements](https://improveunemployment.com/Acknowledgements/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->

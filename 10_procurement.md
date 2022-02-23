@@ -26,7 +26,7 @@ Rates you see in CALC are:
 ![Hourly rate data for facilitator](/assets/images/image3.png)
 
 <hr>
-### Go to the next section: [Employers](/employers/)
+### Go to the next section: [Employers](https://improveunemployment.com/Employers/)
 <hr>
 
  <!-- Footnotes themselves at the bottom. -->

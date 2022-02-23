@@ -13,7 +13,7 @@ First contact resolution is when a claimant calling with a question or concern h
 
 First contact resolution rates are a standard measurement in private sector customer service, but we didn’t find any state that was tracking it for unemployment. In fact, some states shared with us that they were unable to even count call volume until the pandemic led them to adopt new call center technology like AWS Connect.
 
-### We recommend a [demonstration project](/way_forward/#demonstration-projects--pilots) to measure first contact resolution.
+### We recommend a [demonstration project](https://improveunemployment.com/way_forward/#demonstration-projects--pilots) to measure first contact resolution.
 Some examples of what this project could focus on include:
 *   How to resolve one claimant across all channels (e.g., chat, email, and phone) 
 *   The ideal call reason categories for measuring contact reason with enough granularity to work through and automate or eliminate the top reasons
@@ -39,7 +39,7 @@ It’s important to measure _why_ people are calling in and ensure those reasons
 North Carolina provides claim status updates through an automated phone system. If the claim status is that the claimant needs to take additional action, that claimant is immediately routed to a live agent, skipping wait time.
 
 ### Develop a contact center taxonomy.
-A [demonstration project](/way_forward/#demonstration-projects--pilots) could be developing an optimal contact center taxonomy and routing tree methodology for capturing granular call reasons and maximizing self-service.
+A [demonstration project](https://improveunemployment.com/way_forward/#demonstration-projects--pilots) could be developing an optimal contact center taxonomy and routing tree methodology for capturing granular call reasons and maximizing self-service.
 
 ### Chat bots can help reduce call center volume.
 [Many states introduced chatbots](https://www.nascio.org/wp-content/uploads/2020/06/NASCIO_ChatbotsRespondtoCOVID-19.pdf) during the pandemic to help reduce call center volume for basic questions, provide claimants with claim status updates, and other tasks.[^95] Chatbots have proven useful in other benefits areas like WIC,[^96] but only if the self-service answers are effective.
@@ -90,7 +90,7 @@ High-quality help documentation offers many benefits, like:
 
 ### To be most helpful, documentation should meet these criteria.
 High-quality help documentation is:
-*   Written in [plain language](/#plain-language)
+*   Written in [plain language](https://improveunemployment.com/#plain-language)
 *   Easily discovered via search  — including both external search engines like Google, and also within an employment website’s search feature
 *   Contextual —  the explanation for a potentially confusing question should be right there next to the confusing question
 *   Data-driven — write content to address top questions[^101] from customer service and website searches
@@ -121,7 +121,7 @@ In Nevada:
 >“The Chair of the Strike Force was in frequent communication with a founding member of the Nevada Pandemic Unemployment Facebook group. This individual shared valuable information with the Chair who passed these insights from a claimant feedback loop to ESD. This type of communication should occur with DETR and community stakeholders just as other state agencies do with their stakeholders. Perhaps that was not possible when the crisis was at its highest peak as there was no one available to do it. However, this is an essential role that should be created in the future.” [Nevada](https://cms.detr.nv.gov/Content/Media/Strike_Force_Report_2021_FIN.pdf)
 
 <hr>
-### Go to the next section: [Procurement](/procurement/)
+### Go to the next section: [Procurement](https://improveunemployment.com/Procurement/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->
