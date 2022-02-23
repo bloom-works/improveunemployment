@@ -9,7 +9,7 @@ intro_image: /assets/images/technology.png
 ---
 
 ## Modernization
-We recommend that everyone stop using the word “modernization” in the context of unemployment systems, immediately. Instead, focus on [claimant-centric outcomes](https://improveunemployment.com/processing/#backlogs) and [related North Star goals](https://improveunemployment.com/northstar/).
+We recommend that everyone stop using the word “modernization” in the context of unemployment systems, immediately. Instead, focus on [claimant-centric outcomes](/processing/#backlogs) and [related North Star goals](/northstar/).
 
 ### Modernization doesn’t have a universal definition.
 Historically, the term “modernization” has been used to mean very different, and often very specific, things in the unemployment space. For example, NASWA’s 2010 definition: “_A ‘modernized’ UI system means the benefits or tax System uses an application technology that inherently supports web-based services and object-oriented paradigms in combination with a relational database technology. ‘Fully Modernized’ refers to a UI system with both ‘modernized’ benefits and tax_.”
@@ -64,7 +64,7 @@ Many states are using website instrumentation tools like Google Analytics to tra
 
 
 ### Instrument your websites and review the data regularly.
-We recommend that every state instrument their unemployment websites and include review of the data in regular integrated [command meetings](https://improveunemployment.com/way_forward/#integrated-command-center). Tools like Google Analytics have policies in place to protect visitors’ privacy while gathering the data you need. 
+We recommend that every state instrument their unemployment websites and include review of the data in regular integrated [command meetings](/way_forward/#integrated-command-center). Tools like Google Analytics have policies in place to protect visitors’ privacy while gathering the data you need. 
 
 To learn more about visitor privacy protection, [read this guidance on data access, retention, and privacy](https://digital.gov/guides/dap/common-questions-about-dap/#data-access-retention-and-privacy) from the federal [Digital Analytics Program](https://digital.gov/guides/dap/).
 
@@ -114,7 +114,7 @@ Replacing a mainframe is _not_ a goal or a solution in itself. You can [deliver 
 ### The strangler pattern is based on incremental change. 
 The strangler strategy allows you to make improvements over time until the mainframe eventually becomes obsolete. To upgrade your system in a manageable, chunked way: 
 *   Choose **one** area of functionality. In UI, this might be claim status, recertification, customer support, or lower-level appeals. (Basically, any of the chapter subheadings of this report!) 
-*   Redesign it, with [user experience and Key Performance Indicators (KPIs) (goals)](https://improveunemployment.com/way_forward/#defining-success) in mind. 
+*   Redesign it, with [user experience and Key Performance Indicators (KPIs) (goals)](/way_forward/#defining-success) in mind. 
 *   Build this new functionality apart from the mainframe, with the least amount of integration necessary — maybe doing a spreadsheet data sync once every night, for example. 
 
 If the mainframe has constraints that negatively impact user experience, do the right thing in the new functionality, and silently transform as necessary in the background. For example, if your mainframe can't store names with special characters, do what Rhode Island did: provide claimants an inclusive name field that captures their name accurately, and store a separate version of that name behind the scenes to transmit to the mainframe. (When the need to send that name to the mainframe eventually goes away, turn off the separate transformation.)
@@ -150,7 +150,7 @@ Every state we spoke with that moved to the cloud is pleased with the positive r
 To solve problems in unemployment, newer technology needs to be attached to claimant success metrics, such as [handling at least 35 requests a second](https://adhoc.team/2021/06/11/transforming-unemployment-insurance-systems/).
 
 <hr>
-### Go to the next section: [Recommended Way Forward](https://improveunemployment.com/way_forward/)
+### Go to the next section: [Recommended Way Forward](/way_forward/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->
