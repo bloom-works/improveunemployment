@@ -121,7 +121,7 @@ In Nevada:
 >“The Chair of the Strike Force was in frequent communication with a founding member of the Nevada Pandemic Unemployment Facebook group. This individual shared valuable information with the Chair who passed these insights from a claimant feedback loop to ESD. This type of communication should occur with DETR and community stakeholders just as other state agencies do with their stakeholders. Perhaps that was not possible when the crisis was at its highest peak as there was no one available to do it. However, this is an essential role that should be created in the future.” [Nevada](https://cms.detr.nv.gov/Content/Media/Strike_Force_Report_2021_FIN.pdf)
 
 <hr>
-### Go to the next section: [Procurement](/procurement /)
+### Go to the next section: [Procurement](/procurement/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->
