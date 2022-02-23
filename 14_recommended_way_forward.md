@@ -35,7 +35,7 @@ The success of efforts to improve unemployment benefits delivery can’t be meas
 ### Success metrics should emphasize service delivery, not fraud prevention.
 States must fight fraud. But reactionary measures in the moment, like blocking claimants who use the same address or who switch bank accounts frequently (measures that, in the end, don’t protect against organized crime efforts, either), hurt claimants without truly addressing fraud.
 
-Leaders need to decide if their goal is to deliver timely, adequate benefits payments to the unemployed, or to [continue to reward not paying people](https://www.newamerica.org/pit/reports/unpacking-inequities-unemployment-insurance/a-focus-on-fraud-over-accessibility-the-punitive-design-of-ui/) or avoiding “[fraud](https://improveunemployment.com/Fraud/)” at the expense of delivering benefits. 
+Leaders need to decide if their goal is to deliver timely, adequate benefits payments to the unemployed, or to [continue to reward not paying people](https://www.newamerica.org/pit/reports/unpacking-inequities-unemployment-insurance/a-focus-on-fraud-over-accessibility-the-punitive-design-of-ui/) or avoiding “[fraud](https://improveunemployment.com/fraud/)” at the expense of delivering benefits. 
 
 > “Part of this increase in erroneous denial has to do with the fact that systems have been over-calibrated to prevent overpayments at the expense of paying appropriate benefits.”[^142] _— National Employment Law Project_
 
@@ -407,7 +407,7 @@ In addition to American Rescue Plan (ARP) funds, philanthropy could support the 
 *   Funding an [Algorithmic Justice League audit](https://www.ajl.org/take-action#REQUEST) of identity verification vendors used in unemployment
 
 <hr>
-### Go to the next section: [Acknowledgements](https://improveunemployment.com/Acknowledgements/)
+### Go to the next section: [Acknowledgements](https://improveunemployment.com/acknowledgements/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->

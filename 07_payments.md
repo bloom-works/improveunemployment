@@ -82,7 +82,7 @@ The demonstration pilot would have to address and work through the risk of overp
 Once there’s a new definition of timeliness — informed by the demonstration project — we recommend that U.S. DOL make new technology grants contingent on meeting this new definition.
 
 <hr>
-### Go to the next section: [Claim Processing](https://improveunemployment.com/Processing/)
+### Go to the next section: [Claim Processing](https://improveunemployment.com/processing/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->
