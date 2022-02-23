@@ -1,22 +1,8 @@
 # Setup
-title:            'The Costly Effects of an Outdated Organ Donation System'
+title: 'A Playbook for Improving Unemployment Insurance Delivery'
 tagline:          ''
-description:      'This is the description'
-production_url:   'https://bloomworks.digital/organdonationreform'
+description:      ''
 url:              'http://localhost:4000'
-
-author:
-  name:           'Author'
-  url:            https://github.com/CTOpenData/data-sharing-playbook
-
-# Custom vars
-version:          1.0.0
-
-github:
-  repo:           https://github.com/Bloom-Works/organ-donation-reform
-
-# Google Analytics
-google_analytics: UA-XXXXXXXXXX-X
 
 plugins:
   - jekyll-toc

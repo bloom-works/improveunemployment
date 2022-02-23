@@ -1,16 +1,16 @@
 # Setup
 title: 'A Playbook for Improving Unemployment Insurance Delivery'
 tagline: ''
-description: 'This is the description'
+description: ''
 
 author:
-  name: 'Author'
+  name: ''
 
 # Custom vars
 version: 1.0.0
 
 github:
-  repo: https://github.com/Bloom-Works/new-america
+  repo: https://github.com/Bloom-Works/improveunemployment
 
 # Google Analytics
 google_analytics: UA-XXXXXXXXXX-X
