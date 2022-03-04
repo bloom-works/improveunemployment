@@ -13,7 +13,7 @@ Only 13% of government software projects over US$6m succeed.[^105] Both before a
 ## The Federal Cost Estimator is a helpful tool for procuring services.
 The [Contract-Awarded Labor Category (CALC) tool](https://calc.gsa.gov/) helps federal contracting officers and others find awarded prices to use in negotiations for labor contracts. It offers ceiling prices, fully burdened costs, services data, and worldwide rates. This tool shows actual ceiling prices awarded to various vendors at the master contract level, on the 8 eight GSA professional services schedules (including IT 70).
 
-These aren’tare not  prices paid at the task order level, which may be slightly different (e.g., to reflect a discount).
+These are not  prices paid at the task order level, which may be slightly different (e.g., to reflect a discount).
 Rates you see in CALC are:
 * Fully burdened hourly rates
 * Ceiling prices (awarded at the master contract level)
