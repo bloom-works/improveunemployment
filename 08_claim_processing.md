@@ -63,7 +63,7 @@ As states have tried to hire more staff to address increasing claims volume, mos
 In calmer times, we recommend that states review training requirements and processes to: 
 *   Look for ways to train that don’t take up the capacity of experienced claims processors (whose expertise is most-needed on real claimants, not new hires, in high-volume periods) 
 *   Revamp training to be remote ready 
-*   Identify ways to expand capacity without hiring a lot of new people at the start of the next recession, like automation for roles that are relatively easy to train for, and [elastic capacity](https://bloom-new-america.netlify.app/processing/#elastic-capacity) capabilities 
+*   Identify ways to expand capacity without hiring a lot of new people at the start of the next recession, like automation for roles that are relatively easy to train for, and [elastic capacity](/processing/#elastic-capacity) capabilities 
 
 
 
