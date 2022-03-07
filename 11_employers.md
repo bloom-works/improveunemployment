@@ -64,7 +64,7 @@ We recommend one or more [demonstration projects](/way_forward/#demonstration-pr
 
 
 ## Appeals
-Claimants can file an appeal when they believe that the unemployment system has falsely denied them benefits or the ability to apply for benefits. When a claimant believes they have falsely been denied unemployment benefits, or falsely been denied the ability to **apply** for unemployment benefits, they can file an appeal. Most states have 2two levels of appeals.
+Claimants can file an appeal when they believe that the unemployment system has falsely denied them benefits or the ability to apply for benefits. When a claimant believes they have falsely been denied unemployment benefits, or falsely been denied the ability to **apply** for unemployment benefits, they can file an appeal. Most states have two levels of appeals.
 
 We recommend states keep a close watch on their appeals rates for any potential impact from other, upstream changes. Closely tracking the rate of appeals relative to claim volume is a critical early indicator that your attempts at thwarting fraud are diverting real claimants.
 
