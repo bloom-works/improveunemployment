@@ -1,7 +1,7 @@
 ---
 layout: page
 title: North Star
-permalink: /NorthStar/
+permalink: /northstar/
 nav: true
 weight: 1
 toc: false
@@ -20,6 +20,6 @@ We recommend adopting the following goals to ensure that unemployment benefits a
 *   **A collaborative relationship between U.S. DOL and states** to improve the experience of both claimants and employees. New program letters would be co-authored with states, with practical implementation guidance developed through demonstration projects in states first. These new experiences must be co-designed well, in service of claimant-centric metrics, from the start.
 
 <hr>
-### Go to the next section: [Fraud](https://improveunemployment.com/Fraud/)
+### Go to the next section: [Fraud](/fraud/)
 <hr>
 

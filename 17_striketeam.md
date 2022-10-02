@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Draft Strike Team Assessment Output 
-permalink: /Striketeam/
+permalink: /striketeam/
 nav: true
 weight: 1
 toc: false

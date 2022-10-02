@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Claim Processing
-permalink: /Processing/
+permalink: /processing/
 nav: true
 weight: 1
 toc: true
@@ -58,12 +58,12 @@ As states have tried to hire more staff to address increasing claims volume, mos
 
 [In a report to the U.S. DOL](https://www.naswa.org/system/files/2021-03/usdolreleasesnaswareport.pdf), NASW indicates that this training challenge has plagued unemployment for decades:
 
-    _Training new staff members was both important and a major challenge in many, if not all, states, as evidenced by the number of times state officials brought up training despite the interview protocol having no direct questions about training. Florida officials reported, for example, that training new staff was the biggest challenge they faced in ramping up. Nebraska, which nearly doubled its claims-taking staff as the recession hit, described its training schedule as “intensive.” Rhode Island officials noted that when the number of staff tripled in February 2009, the state faced significant challenges with training. Training was necessary not only for staff coming in the door, but for staff moving among positions, and training staff in more specialized areas could require a significant investment of time. For example, officials in Montana noted the state couldn’t staff up fast enough in the non-monetary determinations area because it takes four to six months to train a new hire adequately. Maine officials said newly hired staff worked on simpler issues at first, but it often was necessary to elevate these staff with little experience to high-skilled positions, such as adjudication, and more training was then required. This was mirrored in Nevada, which received permission to hire additional referees in 2009 to maintain timely appeals performance, but struggled filling positions because they require significant UI experience. Thus, recent hires were often promoted from examiner to adjudicator after just one week of agency experience. Rhode Island officials noted that during 2010 performance improvements in adjudications were smaller than in some other areas because more than half the persons doing adjudications were recent hires with limited initial knowledge of UI and no initial adjudication knowledge. (p [197](https://www.naswa.org/system/files/2021-03/usdolreleasesnaswareport.pdf))_
+> Training new staff members was both important and a major challenge in many, if not all, states, as evidenced by the number of times state officials brought up training despite the interview protocol having no direct questions about training. Florida officials reported, for example, that training new staff was the biggest challenge they faced in ramping up. Nebraska, which nearly doubled its claims-taking staff as the recession hit, described its training schedule as “intensive.” Rhode Island officials noted that when the number of staff tripled in February 2009, the state faced significant challenges with training. Training was necessary not only for staff coming in the door, but for staff moving among positions, and training staff in more specialized areas could require a significant investment of time. For example, officials in Montana noted the state couldn’t staff up fast enough in the non-monetary determinations area because it takes four to six months to train a new hire adequately. Maine officials said newly hired staff worked on simpler issues at first, but it often was necessary to elevate these staff with little experience to high-skilled positions, such as adjudication, and more training was then required. This was mirrored in Nevada, which received permission to hire additional referees in 2009 to maintain timely appeals performance, but struggled filling positions because they require significant UI experience. Thus, recent hires were often promoted from examiner to adjudicator after just one week of agency experience. Rhode Island officials noted that during 2010 performance improvements in adjudications were smaller than in some other areas because more than half the persons doing adjudications were recent hires with limited initial knowledge of UI and no initial adjudication knowledge. (p [197](https://www.naswa.org/system/files/2021-03/usdolreleasesnaswareport.pdf))
 
 In calmer times, we recommend that states review training requirements and processes to: 
 *   Look for ways to train that don’t take up the capacity of experienced claims processors (whose expertise is most-needed on real claimants, not new hires, in high-volume periods) 
 *   Revamp training to be remote ready 
-*   Identify ways to expand capacity without hiring a lot of new people at the start of the next recession, like automation for roles that are relatively easy to train for, and [elastic capacity](https://bloom-new-america.netlify.app/processing/#elastic-capacity) capabilities 
+*   Identify ways to expand capacity without hiring a lot of new people at the start of the next recession, like automation for roles that are relatively easy to train for, and [elastic capacity](/processing/#elastic-capacity) capabilities 
 
 
 
@@ -80,7 +80,7 @@ It’s a matter of _when_, not _if_, state workforce agencies experience another
 
 
 ### Start by testing your current elastic capacity.
-Use your [workload management plan](https://bloom-new-america.netlify.app/processing/#workload-management) to perform a tabletop exercise. In a tabletop exercise, leadership representatives from every business line sit around a table and “act out” a scenario like a recession or a pandemic. Adjust the claim volume and staffing ratios to model how well the agency will perform under various possible scenarios. Measure predicted performance by answering questions like: 
+Use your [workload management plan](/processing/#workload-management) to perform a tabletop exercise. In a tabletop exercise, leadership representatives from every business line sit around a table and “act out” a scenario like a recession or a pandemic. Adjust the claim volume and staffing ratios to model how well the agency will perform under various possible scenarios. Measure predicted performance by answering questions like: 
 *   How many backlogged claims would there be?
 *   How long would the call hold time be? 
 *   What would the average processing time be?
@@ -90,23 +90,23 @@ Based on recent performance, all states will likely struggle to complete this ex
 States can’t train new employees to process complex claims quickly.[^90] Therefore, states can’t solve for increased claims volumes with new hires.[^91] Instead, your team needs to employ automation such that **the number of claims that require processing by a human adjudicator doesn’t exceed the capacity of current staff to process them within set timeframes.**[^92] 
 
 For example:
-If your goal is same-day benefits payments, then your volume of claims that require a human adjudicator can’t exceed the number of claims your current staff can process in a single day. Otherwise, mathematically, you will have a growing [backlog](https://bloom-new-america.netlify.app/processing/#backlogs). 
+If your goal is same-day benefits payments, then your volume of claims that require a human adjudicator can’t exceed the number of claims your current staff can process in a single day. Otherwise, mathematically, you will have a growing [backlog](/processing/#backlogs). 
 
 
 ### Automate steps that are best done by computers.
 Automation doesn’t have to mean a black box algorithm, or even algorithms at all. Instead, agencies can map out their process step by step, and identify where computers can reduce unnecessary burden on highly skilled staff, like: 
-*   [Resetting passwords](https://bloom-new-america.netlify.app/experience/#password-resets)
+*   [Resetting passwords](/experience/#password-resets)
 *   Sending reminders and notifications
-*   Providing online, [plain language](https://bloom-new-america.netlify.app/experience/#plain-language) instructions to explain top call center help requests -
-*   [Automating recertification options for claimants](https://bloom-new-america.netlify.app/experience/#recertification)
-*   [Using surveys in lieu of determinations interviews](https://bloom-new-america.netlify.app/processing/#determinations)
-*   Updating users on their [claim status](https://bloom-new-america.netlify.app/experience/#claim-status)
-*   [Verifying claimant identities](https://bloom-new-america.netlify.app/fraud/#identity-verification)
-*   [Verifying wages](https://bloom-new-america.netlify.app/wage/)
+*   Providing online, [plain language](/experience/#plain-language) instructions to explain top call center help requests -
+*   [Automating recertification options for claimants](/experience/#recertification)
+*   [Using surveys in lieu of determinations interviews](/processing/#determinations)
+*   Updating users on their [claim status](/experience/#claim-status)
+*   [Verifying claimant identities](/fraud/#identity-verification)
+*   [Verifying wages](/wage/)
 
 
 #### Automation isn’t all or nothing. 
-Automated, [self-service password reset](https://bloom-new-america.netlify.app/experience/#password-resets) is an objectively good idea for every state. Sometimes, a claimant may still need to call and speak with an agent to reset their password. Automating this step will still eliminate almost all of the staff time associated with password resets, while also improving most claimants’ experience and preserving human time for those claimants who really need it.
+Automated, [self-service password reset](/experience/#password-resets) is an objectively good idea for every state. Sometimes, a claimant may still need to call and speak with an agent to reset their password. Automating this step will still eliminate almost all of the staff time associated with password resets, while also improving most claimants’ experience and preserving human time for those claimants who really need it.
 
 While automation can absolutely [introduce or codify existing biases](https://www.ajl.org/), thoughtful automation can **remove** and/or **expose** bias in a system.
 
@@ -210,19 +210,19 @@ Convening this specialized team would offer a number of benefits, for both indiv
 
 
 ## Determinations
-When states begin to break down their [workload management](https://bloom-new-america.netlify.app/processing/#workload-management) tasks, the task that consistently takes the longest with the greatest backlog is determinations. On average, determinations take 30 minutes each, and they must be completed by experienced claims processors.
+When states begin to break down their [workload management](/processing/#workload-management) tasks, the task that consistently takes the longest with the greatest backlog is determinations. On average, determinations take 30 minutes each, and they must be completed by experienced claims processors.
 
 
 ### New Jersey used an automated survey to vastly improve processing time.
 As far back as 2017, New Jersey recognized determinations as an opportunity area. They were resolving fewer than 10% of determinations within the U.S. DOL timeframe, when the standard was 87%. Unable to close this gap without a time expansion machine, they adopted a creative alternate approach. Today, the majority of claimants who require a determination interview get an auto-generated electronic survey, asking the specific fact-finding questions relevant to their claim.
 
-**Claims processors doubled their productivity**, shaving an average of 5 weeks off of claim processing time. Using Salesforce as the underlying system for generating and collecting this survey information was another successful [strangle the mainframe](https://bloom-new-america.netlify.app/tech/#strangle-the-mainframe) pattern.
+**Claims processors doubled their productivity**, shaving an average of 5 weeks off of claim processing time. Using Salesforce as the underlying system for generating and collecting this survey information was another successful [strangle the mainframe](/tech/#strangle-the-mainframe) pattern.
 
 ### Review your interview process for opportunities to automate.
 We recommend that every state evaluate its determinations interview process for opportunities where automation, such as a situation-specific survey, can replace the highly labor-intensive and non-scalable manual interview process.
 
 <hr>
-### Go to the next section: [Customer Service](https://improveunemployment.com/Customer/)
+### Go to the next section: [Customer Service](/customer/)
 <hr>
 
 

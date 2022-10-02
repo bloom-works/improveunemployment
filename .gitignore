@@ -48,3 +48,6 @@ index.css
 # Ignore Jekyll
 .sass-cache/
 .jekyll-metadata
+
+# Ignore VSCode meta files
+.devcontainer

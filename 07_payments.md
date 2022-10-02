@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Payments
-permalink: /Payments/
+permalink: /payments/
 nav: true
 weight: 1
 toc: true
@@ -43,7 +43,7 @@ Many people we spoke with reported that they felt vendors were slow to mail out 
 
 
 ### Recommendation for the federal government
-Consider using [demonstration projects](https://improveunemployment.com/way_forward/#demonstration-projects--pilots) to explore options like:
+Consider using [demonstration projects](/way_forward/#demonstration-projects--pilots) to explore options like:
 *   Issuing temporary payments via Western Union, like it’s possible to do with SSDI 
 *   Pushing a replacement payment to a digital wallet
 *   Guidelines for new kinds of payment vendors
@@ -73,7 +73,7 @@ Also, states must continue to pay claimants if there is a question of their ongo
 
 
 ### Recommendations for the federal government
-We recommend a [demonstration project](https://improveunemployment.com/way_forward/#demonstration-projects--pilots) and success metric of same-day benefits payments to as many unemployment applicants as possible.  As demonstrated across other benefit areas, it _is_ administratively feasible for states to make same-day payments. Same-day payments will drive increased automation and the streamlining of policy.
+We recommend a [demonstration project](/way_forward/#demonstration-projects--pilots) and success metric of same-day benefits payments to as many unemployment applicants as possible.  As demonstrated across other benefit areas, it _is_ administratively feasible for states to make same-day payments. Same-day payments will drive increased automation and the streamlining of policy.
 
 In determining timeliness measures, we recommend that U.S. DOL include a more expansive group of claimants. Today, if you’re disqualified prior to the first payment timeliness marker, you don’t appear in the timeliness metric. Visibility into the percentage of disqualified claimants over time can surface potential discrepancies or inconsistencies with state policies.
 
@@ -82,7 +82,7 @@ The demonstration pilot would have to address and work through the risk of overp
 Once there’s a new definition of timeliness — informed by the demonstration project — we recommend that U.S. DOL make new technology grants contingent on meeting this new definition.
 
 <hr>
-### Go to the next section: [Claim Processing](https://improveunemployment.com/Processing/)
+### Go to the next section: [Claim Processing](/processing/)
 <hr>
 
 <!-- Footnotes themselves at the bottom. -->

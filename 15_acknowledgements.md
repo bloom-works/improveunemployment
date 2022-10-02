@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acknowledgements
-permalink: /Acknowledgements/
+permalink: /acknowledgements/
 nav: true
 weight: 1
 toc: false
@@ -44,7 +44,7 @@ This work was supported by the Families and Workers Fund, and the team is especi
 
 
 <hr>
-### Go to the next section: [Ecosystem Survey](https://improveunemployment.com/Ecosystem/)
+### Go to the next section: [Ecosystem Survey](/ecosystem/)
 <hr>
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Identity Verification
-permalink: /Identity_Verification/
+permalink: /identity_verification/
 nav: true
 weight: 1
 toc: true
@@ -22,8 +22,8 @@ It's particularly important that state agencies stop using social security numbe
 In addition to being NIST IAL2/AAL2 compliant, U.S. DOL could require[^17] that identity verification solutions for unemployment:
 *   Have a pathway for the unbanked and underbanked, who can’t pass identity “quizzes” that rely on credit histories
 *   Have in-person options for verifying identity, such as UPS stores (currently used for verifying foster parent identities) or VA hospitals (currently used for in-person identity proofing for access to VA benefits). Per [REAL ID requirements](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/how-do-i-get-a-real-id/real-id-checklist/), in-person applicants without a valid ID (e.g. with an expired license) can use their birth certificate for identity verification. [^18] [^19]
-*   Have an [escape hatch](https://improveunemployment.com/experience/#escape-hatches) to access a trained human[^20] (NIST calls them “trusted referees”),[^21] with a reasonable wait time, call back, or appointment scheduling feature. The VA has been using [trusted referees](https://www.fedscoop.com/id-brings-virtual-identity-proofing-va/) since 2019.
-*   Have the ability to confirm identities same-day (whether automated or with trained humans), enabling a North Star goal of [same-day payments](https://improveunemployment.com/payments/#timeliness).
+*   Have an [escape hatch](/experience/#escape-hatches) to access a trained human[^20] (NIST calls them “trusted referees”),[^21] with a reasonable wait time, call back, or appointment scheduling feature. The VA has been using [trusted referees](https://www.fedscoop.com/id-brings-virtual-identity-proofing-va/) since 2019.
+*   Have the ability to confirm identities same-day (whether automated or with trained humans), enabling a North Star goal of [same-day payments](/payments/#timeliness).
 *   [Accept all names](https://docs.google.com/document/d/1c1S9FqZ-cSvf33gXd_QN9JTFlHMo3yb8zDMMnoyLszw/edit)
 *   Enable federated trusted identities — if you already completed compliant identity proofing with another government agency (e.g., the DMV), this allows you to re-use that identity to apply for unemployment instead of having to repeat the process (Bonus: This is also a cost savings for the government, which now only has to pay for identity proofing once per person, instead of once per person per benefit line.)
 *   Retain the _fact_ that an individual’s identity was verified, and follow [NARA document retention guidelines](https://www.archives.gov/about/records-schedule) for retaining copies of the underlying identity documents.
@@ -42,7 +42,7 @@ NIST could also encourage an [algorithmic bias “bug bounty” program](https:/
 ## Determine the best timing for identity verification using a demonstration project.
 Some states have made identity verification the very first step, while others allow people to get further in the process first. 
 
-Of the states that have adopted federally-compliant identity verification during the pandemic, some require all claimants to complete it, while others only send claimants with higher risk scores, or only PUA claimants, through it. [The demonstration project](https://improveunemployment.com/way_forward/#demonstration-projects--pilots) should explicitly measure equitable outcomes, looking for areas where real claimants may be discouraged or stopped from progressing, and fixing them.
+Of the states that have adopted federally-compliant identity verification during the pandemic, some require all claimants to complete it, while others only send claimants with higher risk scores, or only PUA claimants, through it. [The demonstration project](/way_forward/#demonstration-projects--pilots) should explicitly measure equitable outcomes, looking for areas where real claimants may be discouraged or stopped from progressing, and fixing them.
 
 <div class="callout callout--info">
 	<div class="callout-content">
@@ -53,7 +53,7 @@ Of the states that have adopted federally-compliant identity verification during
 </div>
 
 <hr>
-### Go to the next section: [Wage Verification](https://improveunemployment.com/Wage/)
+### Go to the next section: [Wage Verification](/wage/)
 <hr>
 
 
