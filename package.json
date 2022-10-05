@@ -6,9 +6,9 @@
   "author": "Hondo <hi@hondo.xyz>",
   "license": "MIT",
   "dependencies": {
-    "postcss": "^8.1.1",
-    "postcss-cli": "^8.0.0",
-    "tailwindcss": "^1.8.10"
+    "postcss": "8.1.1",
+    "postcss-cli": "8.0.0",
+    "tailwindcss": "1.8.10"
   },
   "scripts": {
     "postcss:build": "npx postcss assets/css/index.pcss -o assets/css/index.css --env production",
