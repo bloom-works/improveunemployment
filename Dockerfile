@@ -1,4 +1,4 @@
-FROM jekyll/jekyll
+FROM jekyll/jekyll:4.2.0
 
 ENV JEKYLL_ENV=docker
 WORKDIR /workspace
