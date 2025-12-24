@@ -1,7 +1,12 @@
-FROM jekyll/jekyll:4.2.0
+# Build
+#   docker build -t bloomworksdigital/improveunemployment.com .
+# Launch into a terminal
+#   docker run -it --rm -v $(pwd):/opt/buildhome/repo bloomworksdigital/improveunemployment.com:latest bash
+# Build
+#   docker run -it --rm -v $(pwd):/opt/buildhome/repo netlify/build:noble
+
+FROM netlify/build:noble
 
 ENV JEKYLL_ENV=docker
-WORKDIR /workspace
+WORKDIR /opt/buildhome/repo
 EXPOSE 4000
-
-CMD sh start.sh
